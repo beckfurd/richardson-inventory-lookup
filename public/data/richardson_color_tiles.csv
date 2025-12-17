@@ -72,19 +72,19 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 111,split-royal-white,Split Royal/White,1419,2025-12-29,1,,,False,1419
 111,split-texas-orange-khaki,Split Texas Orange/Khaki,4673,2026-05-31,1,,,False,4673
 111,tri-columbia-blue-charcoal-navy,Tri Columbia Blue/Charcoal/Navy,5688,,1,,,False,5688
-111P,digital-camo-light-green,Digital Camo/Light Green,2218,,1,,,False,2218
-111P,green-camo-black,Green Camo/Black,5398,,1,,,False,5398
+111P,digital-camo-light-green,Digital Camo/Light Green,2218,,1,111P/111P_DigitalCamo-LightGreen_FINAL.jpg,111P_DigitalCamo-LightGreen_FINAL.jpg,True,2218
+111P,green-camo-black,Green Camo/Black,5398,,1,111P/111P_GreenCamo-Black_FINAL.jpg,111P_GreenCamo-Black_FINAL.jpg,True,5398
 111P,kryptek-highlander-brown,Kryptek Highlander/Brown,2458,,1,,,False,2458
-111P,kryptek-typhon-black,Kryptek Typhon/Black,1616,,1,,,False,1616
-111P,mossy-oak-bottomland-black,Mossy Oak Bottomland/Black,0,2026-03-06,1,,,False,2026-03-06
-111P,mossy-oak-country-dna-black,Mossy Oak Country DNA/Black,624,2025-12-17,1,,,False,624
-111P,mossy-oak-habitat-brown,Mossy Oak Habitat/Brown,382,,1,,,False,382
-111P,mossy-oak-obsession-khaki,Mossy Oak Obsession/Khaki,1356,,1,,,False,1356
-111P,realtree-edge-brown,Realtree Edge/Brown,5461,2026-05-31,1,,,False,5461
+111P,kryptek-typhon-black,Kryptek Typhon/Black,1616,,1,111P/111P_KryptekTyphon-Black_FINAL.jpg,111P_KryptekTyphon-Black_FINAL.jpg,True,1616
+111P,mossy-oak-bottomland-black,Mossy Oak Bottomland/Black,0,2026-03-06,1,111P/111P_MossyOakBottomland-Black_FINAL.jpg,111P_MossyOakBottomland-Black_FINAL.jpg,True,2026-03-06
+111P,mossy-oak-country-dna-black,Mossy Oak Country DNA/Black,624,2025-12-17,1,111P/111P_MossyOakCountryDNA-Black_FINAL.jpg,111P_MossyOakCountryDNA-Black_FINAL.jpg,True,624
+111P,mossy-oak-habitat-brown,Mossy Oak Habitat/Brown,382,,1,111P/111P_MossyOakHabitat-Brown_FINAL.jpg,111P_MossyOakHabitat-Brown_FINAL.jpg,True,382
+111P,mossy-oak-obsession-khaki,Mossy Oak Obsession/Khaki,1356,,1,111P/111P_MossyOakObsession-Khaki_FINAL.jpg,111P_MossyOakObsession-Khaki_FINAL.jpg,True,1356
+111P,realtree-edge-brown,Realtree Edge/Brown,5461,2026-05-31,1,111P/111P_RealtreeEdge-Brown_FINAL.jpg,111P_RealtreeEdge-Brown_FINAL.jpg,True,5461
 111P,realtree-max-1-brown,Realtree Max-1/Brown,473,2025-12-17,1,,,False,473
 111P,realtree-max-7-buck,Realtree Max-7/Buck,1613,,1,,,False,1613
-111P,realtree-original-black,Realtree Original/Black,187,2026-03-06,1,,,False,187
-111P,realtree-timber-black,Realtree Timber/Black,1059,,1,,,False,1059
+111P,realtree-original-black,Realtree Original/Black,187,2026-03-06,1,111P/111P_RealtreeOriginal-Black_FINAL.jpg,111P_RealtreeOriginal-Black_FINAL.jpg,True,187
+111P,realtree-timber-black,Realtree Timber/Black,1059,,1,111P/111P_RealtreeTimber-Black_FINAL.jpg,111P_RealtreeTimber-Black_FINAL.jpg,True,1059
 111PT,split-multicam-arid-tan,Split Multicam Arid/Tan,810,2026-05-04,1,,,False,810
 111PT,split-multicam-black-black,Split Multicam Black/Black,0,2026-03-16,1,,,False,2026-03-16
 111PT,split-multicam-original-brown,Split Multicam Original/Brown,2779,,1,,,False,2779
@@ -96,33 +96,33 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 112,alternate-white-navy,Alternate White/Navy,2324,2025-12-17,1,112\112_Alternate-White-Navy_FINAL.jpg,112_Alternate-White-Navy_FINAL.jpg,True,2324
 112,combination-black-grey,Combination Black/Grey,27512,,1,112\112_Combination-Black-Grey_FINAL.jpg,112_Combination-Black-Grey_FINAL.jpg,True,27512
 112,combination-brown-khaki,Combination Brown/Khaki,5156,2026-02-23,1,112\112_Combination-Brown-Khaki_FINAL.jpg,112_Combination-Brown-Khaki_FINAL.jpg,True,5156
-112,combination-gunmetal-chocolate-chip,Combination Gunmetal/Chocolate Chip,0,2026-02-09,1,,,False,2026-02-09
+112,combination-gunmetal-chocolate-chip,Combination Gunmetal/Chocolate Chip,0,2026-02-09,1,112/112_Combination-Gunmetal-ChocolateChip_FINAL.jpg,112_Combination-Gunmetal-ChocolateChip_FINAL.jpg,True,2026-02-09
 112,combination-khaki-black,Combination Khaki/Black,3925,2026-01-09,1,112\112_Combination-Khaki-Black_FINAL.jpg,112_Combination-Khaki-Black_FINAL.jpg,True,3925
-112,combination-khaki-chocolate-chip,Combination Khaki/Chocolate Chip,0,2026-01-15,1,,,False,2026-01-15
-112,combination-khaki-legion-blue,Combination Khaki/Legion Blue,4847,2026-04-27,1,,,False,4847
+112,combination-khaki-chocolate-chip,Combination Khaki/Chocolate Chip,0,2026-01-15,1,112/112_Combination-Khaki-ChocolateChip_FINAL.jpg,112_Combination-Khaki-ChocolateChip_FINAL.jpg,True,2026-01-15
+112,combination-khaki-legion-blue,Combination Khaki/Legion Blue,4847,2026-04-27,1,112/112_Combination-Khaki-LegionBlue_FINAL.jpg,112_Combination-Khaki-LegionBlue_FINAL.jpg,True,4847
 112,combination-khaki-loden,Combination Khaki/Loden,15466,2026-01-05,1,112\112_Combination-Khaki-Loden_FINAL.jpg,112_Combination-Khaki-Loden_FINAL.jpg,True,15466
 112,combination-khaki-navy,Combination Khaki/Navy,2629,2026-03-09,1,112\112_Combination-Khaki-Navy_FINAL.jpg,112_Combination-Khaki-Navy_FINAL.jpg,True,2629
-112,combination-light-blue-light-grey,Combination Light Blue/Light Grey,7765,2026-05-31,1,,,False,7765
-112,combination-light-grey-gunmetal,Combination Light Grey/Gunmetal,0,2026-01-05,1,,,False,2026-01-05
+112,combination-light-blue-light-grey,Combination Light Blue/Light Grey,7765,2026-05-31,1,112/112_Combination-LightBlue-LightGrey_FINAL.jpg,112_Combination-LightBlue-LightGrey_FINAL.jpg,True,7765
+112,combination-light-grey-gunmetal,Combination Light Grey/Gunmetal,0,2026-01-05,1,112/112_Combination-LightGrey-Gunmetal_FINAL.jpg,112_Combination-LightGrey-Gunmetal_FINAL.jpg,True,2026-01-05
 112,combination-navy-khaki,Combination Navy/Khaki,15553,2026-02-23,1,112\112_Combination-Navy-Khaki_FINAL.jpg,112_Combination-Navy-Khaki_FINAL.jpg,True,15553
 112,combination-white-black,Combination White/Black,34896,,1,112\112_Combination-White-Black_FINAL.jpg,112_Combination-White-Black_FINAL.jpg,True,34896
 112,combination-white-charcoal,Combination White/Charcoal,24320,,1,112\112_Combination-White-Charcoal_FINAL.jpg,112_Combination-White-Charcoal_FINAL.jpg,True,24320
-112,combination-white-columbia-blue,Combination White/Columbia Blue,8890,2025-12-29,1,,,False,8890
+112,combination-white-columbia-blue,Combination White/Columbia Blue,8890,2025-12-29,1,112/112_Combination-White-ColumbiaBlue_FINAL.jpg,112_Combination-White-ColumbiaBlue_FINAL.jpg,True,8890
 112,combination-white-kelly,Combination White/Kelly,14646,2026-01-02,1,112\112_Combination-White-Kelly_FINAL.jpg,112_Combination-White-Kelly_FINAL.jpg,True,14646
 112,combination-white-navy,Combination White/Navy,38432,,1,112\112_Combination-White-Navy_FINAL.jpg,112_Combination-White-Navy_FINAL.jpg,True,38432
 112,combination-white-red,Combination White/Red,9197,2026-01-02,1,112\112_Combination-White-Red_FINAL.jpg,112_Combination-White-Red_FINAL.jpg,True,9197
 112,combination-white-royal,Combination White/Royal,10012,2025-12-29,1,112\112_Combination-White-Royal_FINAL.jpg,112_Combination-White-Royal_FINAL.jpg,True,10012
-112,solid-amber-gold,Solid Amber Gold,66094,,1,,,False,66094
+112,solid-amber-gold,Solid Amber Gold,66094,,1,112/112_Solid-AmberGold_FINAL.jpg,112_Solid-AmberGold_FINAL.jpg,True,66094
 112,solid-black,Solid Black,824777,2025-12-19,4,112\112_Solid-Black_FINAL.jpg,112_Solid-Black_FINAL.jpg,True,824777
 112,solid-cardinal,Solid Cardinal,2605,,1,,,False,2605
 112,solid-charcoal,Solid Charcoal,65201,2026-01-09,1,112\112_Solid-Charcoal_FINAL.jpg,112_Solid-Charcoal_FINAL.jpg,True,65201
 112,solid-coffee,Solid Coffee,20901,,1,112\112_Solid-Coffee_FINAL.jpg,112_Solid-Coffee_FINAL.jpg,True,20901
-112,solid-columbia-blue,Solid Columbia Blue,7774,2026-03-23,1,,,False,7774
+112,solid-columbia-blue,Solid Columbia Blue,7774,2026-03-23,1,112/112_Solid-ColumbiaBlue_FINAL.jpg,112_Solid-ColumbiaBlue_FINAL.jpg,True,7774
 112,solid-cream,Solid Cream,17904,2026-01-26,1,112\112_Solid-Cream_FINAL.jpg,112_Solid-Cream_FINAL.jpg,True,17904
-112,solid-dark-green,Solid Dark Green,5608,2026-01-02,1,,,False,5608
+112,solid-dark-green,Solid Dark Green,5608,2026-01-02,1,112/112_Solid-DarkGreen_FINAL.jpg,112_Solid-DarkGreen_FINAL.jpg,True,5608
 112,solid-kelly,Solid Kelly,2721,2025-12-17,1,112\112_Solid-Kelly_FINAL.jpg,112_Solid-Kelly_FINAL.jpg,True,2721
-112,solid-light-blue,Solid Light Blue,19851,2026-01-05,1,,,False,19851
-112,solid-light-grey,Solid Light Grey,103679,,1,,,False,103679
+112,solid-light-blue,Solid Light Blue,19851,2026-01-05,1,112/112_Solid-LightBlue_FINAL.jpg,112_Solid-LightBlue_FINAL.jpg,True,19851
+112,solid-light-grey,Solid Light Grey,103679,,1,112/112_Solid-LightGrey_FINAL.jpg,112_Solid-LightGrey_FINAL.jpg,True,103679
 112,solid-loden,Solid Loden,43575,2025-12-22,1,112\112_Solid-Loden_FINAL.jpg,112_Solid-Loden_FINAL.jpg,True,43575
 112,solid-maroon,Solid Maroon,5912,2025-12-22,1,112\112_Solid-Maroon_FINAL.jpg,112_Solid-Maroon_FINAL.jpg,True,5912
 112,solid-navy,Solid Navy,111310,2025-12-17,4,112\112_Solid-Navy_FINAL.jpg,112_Solid-Navy_FINAL.jpg,True,111310
@@ -130,12 +130,12 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 112,solid-quarry,Solid Quarry,49354,2026-03-30,1,112\112_Solid-Quarry_FINAL.jpg,112_Solid-Quarry_FINAL.jpg,True,49354
 112,solid-red,Solid Red,8508,2026-01-02,1,112\112_Solid-Red_FINAL.jpg,112_Solid-Red_FINAL.jpg,True,8508
 112,solid-royal,Solid Royal,2581,2025-12-17,1,112\112_Solid-Royal_FINAL.jpg,112_Solid-Royal_FINAL.jpg,True,2581
-112,solid-smoke-blue,Solid Smoke Blue,26176,2026-03-09,1,,,False,26176
+112,solid-smoke-blue,Solid Smoke Blue,26176,2026-03-09,1,112/112_Solid-SmokeBlue_FINAL.jpg,112_Solid-SmokeBlue_FINAL.jpg,True,26176
 112,solid-white,Solid White,108196,2025-12-17,1,112\112_Solid-White_FINAL.jpg,112_Solid-White_FINAL.jpg,True,108196
-112,split-biscuit-true-blue,Split Biscuit/True Blue,1239,2026-02-02,1,,,False,1239
+112,split-biscuit-true-blue,Split Biscuit/True Blue,1239,2026-02-02,1,112/112_Split-Biscuit-TrueBlue_FINAL.jpg,112_Split-Biscuit-TrueBlue_FINAL.jpg,True,1239
 112,split-black-charcoal,Split Black/Charcoal,254441,2025-12-19,3,112\112_Split-Black-Charcoal_FINAL.jpg,112_Split-Black-Charcoal_FINAL.jpg,True,254441
 112,split-black-gold,Split Black/Gold,6516,2025-12-29,1,112\112_Split-Black-Gold_FINAL.jpg,112_Split-Black-Gold_FINAL.jpg,True,6516
-112,split-black-vegas-gold,Split Black/Vegas Gold,611,2026-01-05,1,,,False,611
+112,split-black-vegas-gold,Split Black/Vegas Gold,611,2026-01-05,1,112/112_Split-Black-VegasGold_FINAL.jpg,112_Split-Black-VegasGold_FINAL.jpg,True,611
 112,split-black-white,Split Black/White,160415,2025-12-22,1,112\112_Split-Black-White_FINAL.jpg,112_Split-Black-White_FINAL.jpg,True,160415
 112,split-black-yellow,Split Black/Yellow,1501,,1,112\112_Split-Black-Yellow_FINAL.jpg,112_Split-Black-Yellow_FINAL.jpg,True,1501
 112,split-brown-dk-khaki,Split Brown/DK Khaki,55424,2026-03-02,1,,,False,55424
@@ -143,30 +143,30 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 112,split-cardinal-black,Split Cardinal/Black,122,2026-01-09,1,112\112_Split-Cardinal-Black_FINAL.jpg,112_Split-Cardinal-Black_FINAL.jpg,True,122
 112,split-cardinal-white,Split Cardinal/White,47397,,1,112\112_Split-Cardinal-White_FINAL.jpg,112_Split-Cardinal-White_FINAL.jpg,True,47397
 112,split-charcoal-black,Split Charcoal/Black,89857,2025-12-19,1,112\112_Split-Charcoal-Black_FINAL.jpg,112_Split-Charcoal-Black_FINAL.jpg,True,89857
-112,split-charcoal-columbia-blue,Split Charcoal/Columbia Blue,13279,2026-02-09,1,,,False,13279
+112,split-charcoal-columbia-blue,Split Charcoal/Columbia Blue,13279,2026-02-09,1,112/112_Split-Charcoal-ColumbiaBlue_FINAL.jpg,112_Split-Charcoal-ColumbiaBlue_FINAL.jpg,True,13279
 112,split-charcoal-kelly,Split Charcoal/Kelly,18575,2026-02-09,1,112\112_Split-Charcoal-Kelly_FINAL.jpg,112_Split-Charcoal-Kelly_FINAL.jpg,True,18575
 112,split-charcoal-navy,Split Charcoal/Navy,17667,2025-12-19,1,112\112_Split-Charcoal-Navy_FINAL.jpg,112_Split-Charcoal-Navy_FINAL.jpg,True,17667
-112,split-charcoal-neon-blue,Split Charcoal/Neon Blue,14979,2026-01-02,1,,,False,14979
-112,split-charcoal-neon-green,Split Charcoal/Neon Green,15269,2025-12-17,1,,,False,15269
-112,split-charcoal-neon-orange,Split Charcoal/Neon Orange,15796,2025-12-17,1,,,False,15796
-112,split-charcoal-neon-pink,Split Charcoal/Neon Pink,4819,2025-12-17,1,,,False,4819
-112,split-charcoal-neon-yellow,Split Charcoal/Neon Yellow,14432,2026-01-02,1,,,False,14432
+112,split-charcoal-neon-blue,Split Charcoal/Neon Blue,14979,2026-01-02,1,112/112_Split-Charcoal-NeonBlue_FINAL.jpg,112_Split-Charcoal-NeonBlue_FINAL.jpg,True,14979
+112,split-charcoal-neon-green,Split Charcoal/Neon Green,15269,2025-12-17,1,112/112_Split-Charcoal-NeonGreen_FINAL.jpg,112_Split-Charcoal-NeonGreen_FINAL.jpg,True,15269
+112,split-charcoal-neon-orange,Split Charcoal/Neon Orange,15796,2025-12-17,1,112/112_Split-Charcoal-NeonOrange_FINAL.jpg,112_Split-Charcoal-NeonOrange_FINAL.jpg,True,15796
+112,split-charcoal-neon-pink,Split Charcoal/Neon Pink,4819,2025-12-17,1,112/112_Split-Charcoal-NeonPink_FINAL.jpg,112_Split-Charcoal-NeonPink_FINAL.jpg,True,4819
+112,split-charcoal-neon-yellow,Split Charcoal/Neon Yellow,14432,2026-01-02,1,112/112_Split-Charcoal-NeonYellow_FINAL.jpg,112_Split-Charcoal-NeonYellow_FINAL.jpg,True,14432
 112,split-charcoal-orange,Split Charcoal/Orange,0,2026-01-05,1,112\112_Split-Charcoal-Orange_FINAL.jpg,112_Split-Charcoal-Orange_FINAL.jpg,True,2026-01-05
 112,split-charcoal-red,Split Charcoal/Red,8188,2026-01-02,1,112\112_Split-Charcoal-Red_FINAL.jpg,112_Split-Charcoal-Red_FINAL.jpg,True,8188
 112,split-charcoal-royal,Split Charcoal/Royal,17803,2025-12-29,1,112\112_Split-Charcoal-Royal_FINAL.jpg,112_Split-Charcoal-Royal_FINAL.jpg,True,17803
 112,split-charcoal-white,Split Charcoal/White,142230,2025-12-29,1,112\112_Split-Charcoal-White_FINAL.jpg,112_Split-Charcoal-White_FINAL.jpg,True,142230
-112,split-chocolate-chip-birch,Split Chocolate Chip/Birch,0,2026-02-16,1,,,False,2026-02-16
-112,split-columbia-blue-white,Split Columbia Blue/White,10148,2026-01-02,1,,,False,10148
+112,split-chocolate-chip-birch,Split Chocolate Chip/Birch,0,2026-02-16,1,112/112_Split-ChocolateChip-Birch_FINAL.jpg,112_Split-ChocolateChip-Birch_FINAL.jpg,True,2026-02-16
+112,split-columbia-blue-white,Split Columbia Blue/White,10148,2026-01-02,1,112/112_Split-ColumbiaBlue-White_FINAL.jpg,112_Split-ColumbiaBlue-White_FINAL.jpg,True,10148
 112,split-cyan-white,Split Cyan/White,1820,2026-01-05,1,112\112_Split-Cyan-White_FINAL.jpg,112_Split-Cyan-White_FINAL.jpg,True,1820
-112,split-dark-green-white,Split Dark Green/White,3883,2026-01-02,1,,,False,3883
-112,split-heather-grey-black,Split Heather Grey/Black,374814,2026-01-02,4,,,False,374814
-112,split-heather-grey-dark-green,Split Heather Grey/Dark Green,26336,2026-03-16,1,,,False,26336
-112,split-heather-grey-light-grey,Split Heather Grey/Light Grey,29203,2026-01-05,1,,,False,29203
-112,split-heather-grey-navy,Split Heather Grey/Navy,40822,2026-01-02,1,,,False,40822
-112,split-heather-grey-royal,Split Heather Grey/Royal,15151,2025-12-17,1,,,False,15151
-112,split-heather-grey-white,Split Heather Grey/White,128397,2025-12-19,4,,,False,128397
-112,split-hot-pink-black,Split Hot Pink/Black,3177,2025-12-29,1,,,False,3177
-112,split-hot-pink-white,Split Hot Pink/White,10905,2025-12-17,1,,,False,10905
+112,split-dark-green-white,Split Dark Green/White,3883,2026-01-02,1,112/112_Split-DarkGreen-White_FINAL.jpg,112_Split-DarkGreen-White_FINAL.jpg,True,3883
+112,split-heather-grey-black,Split Heather Grey/Black,374814,2026-01-02,4,112/112_Split-HeatherGrey-Black_FINAL.jpg,112_Split-HeatherGrey-Black_FINAL.jpg,True,374814
+112,split-heather-grey-dark-green,Split Heather Grey/Dark Green,26336,2026-03-16,1,112/112_Split-HeatherGrey-DarkGreen_FINAL.jpg,112_Split-HeatherGrey-DarkGreen_FINAL.jpg,True,26336
+112,split-heather-grey-light-grey,Split Heather Grey/Light Grey,29203,2026-01-05,1,112/112_Split-HeatherGrey-LightGrey_FINAL.jpg,112_Split-HeatherGrey-LightGrey_FINAL.jpg,True,29203
+112,split-heather-grey-navy,Split Heather Grey/Navy,40822,2026-01-02,1,112/112_Split-HeatherGrey-Navy_FINAL.jpg,112_Split-HeatherGrey-Navy_FINAL.jpg,True,40822
+112,split-heather-grey-royal,Split Heather Grey/Royal,15151,2025-12-17,1,112/112_Split-HeatherGrey-Royal_FINAL.jpg,112_Split-HeatherGrey-Royal_FINAL.jpg,True,15151
+112,split-heather-grey-white,Split Heather Grey/White,128397,2025-12-19,4,112/112_Split-HeatherGrey-White_FINAL.jpg,112_Split-HeatherGrey-White_FINAL.jpg,True,128397
+112,split-hot-pink-black,Split Hot Pink/Black,3177,2025-12-29,1,112/112_Split-HotPink-Black_FINAL.jpg,112_Split-HotPink-Black_FINAL.jpg,True,3177
+112,split-hot-pink-white,Split Hot Pink/White,10905,2025-12-17,1,112/112_Split-HotPink-White_FINAL.jpg,112_Split-HotPink-White_FINAL.jpg,True,10905
 112,split-kelly-white,Split Kelly/White,17647,2025-12-29,1,112\112_Split-Kelly-White_FINAL.jpg,112_Split-Kelly-White_FINAL.jpg,True,17647
 112,split-khaki-coffee,Split Khaki/Coffee,40580,2025-12-17,1,112\112_Split-Khaki-Coffee_FINAL.jpg,112_Split-Khaki-Coffee_FINAL.jpg,True,40580
 112,split-khaki-white,Split Khaki/White,72429,2026-03-16,1,112\112_Split-Khaki-White_FINAL.jpg,112_Split-Khaki-White_FINAL.jpg,True,72429
@@ -184,33 +184,33 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 112,split-red-white,Split Red/White,25518,2025-12-19,1,112\112_Split-Red-White_FINAL.jpg,112_Split-Red-White_FINAL.jpg,True,25518
 112,split-royal-black,Split Royal/Black,11824,2026-01-02,1,112\112_Split-Royal-Black_FINAL.jpg,112_Split-Royal-Black_FINAL.jpg,True,11824
 112,split-royal-white,Split Royal/White,63456,2025-12-22,1,112\112_Split-Royal-White_FINAL.jpg,112_Split-Royal-White_FINAL.jpg,True,63456
-112,tri-black-white-heather-grey,Tri Black/White/Heather Grey,10348,2025-12-29,1,,,False,10348
+112,tri-black-white-heather-grey,Tri Black/White/Heather Grey,10348,2025-12-29,1,112/112_Tri-Black-White-HeatherGrey_FINAL.jpg,112_Tri-Black-White-HeatherGrey_FINAL.jpg,True,10348
 112,tri-black-white-red,Tri Black/White/Red,8849,2025-12-29,1,112\112_Tri-Black-White-Red_FINAL.jpg,112_Tri-Black-White-Red_FINAL.jpg,True,8849
-112,tri-blue-teal-birch-navy,Tri Blue Teal/Birch/Navy,819,2026-02-02,1,,,False,819
-112,tri-columbia-blue-white-navy,Tri Columbia Blue/White/Navy,11305,2025-12-17,1,,,False,11305
+112,tri-blue-teal-birch-navy,Tri Blue Teal/Birch/Navy,819,2026-02-02,1,112/112_Tri-BlueTeal-Birch-Navy_FINAL.jpg,112_Tri-BlueTeal-Birch-Navy_FINAL.jpg,True,819
+112,tri-columbia-blue-white-navy,Tri Columbia Blue/White/Navy,11305,2025-12-17,1,112/112_Tri-ColumbiaBlue-White-Navy_FINAL.jpg,112_Tri-ColumbiaBlue-White-Navy_FINAL.jpg,True,11305
 112,tri-cream-black-loden,Tri Cream/Black/Loden,4194,2026-04-27,1,112\112_Tri-Cream-Black-Loden_FINAL.jpg,112_Tri-Cream-Black-Loden_FINAL.jpg,True,4194
-112,tri-cream-grey-brown-brown,Tri Cream/Grey Brown/Brown,0,2026-01-13,1,,,False,2026-01-13
-112,tri-cream-navy-amber-gold,Tri Cream/Navy/Amber Gold,3318,2026-04-27,1,,,False,3318
+112,tri-cream-grey-brown-brown,Tri Cream/Grey Brown/Brown,0,2026-01-13,1,112/112_Tri-Cream-GreyBrown-Brown_FINAL.jpg,112_Tri-Cream-GreyBrown-Brown_FINAL.jpg,True,2026-01-13
+112,tri-cream-navy-amber-gold,Tri Cream/Navy/Amber Gold,3318,2026-04-27,1,112/112_Tri-Cream-Navy-AmberGold_FINAL.jpg,112_Tri-Cream-Navy-AmberGold_FINAL.jpg,True,3318
 112,tri-grey-charcoal-black,Tri Grey/Charcoal/Black,4158,2026-01-20,1,112\112_Tri-Grey-Charcoal-Black_FINAL.jpg,112_Tri-Grey-Charcoal-Black_FINAL.jpg,True,4158
 112,tri-grey-charcoal-navy,Tri Grey/Charcoal/Navy,3312,2026-01-02,1,112\112_Tri-Grey-Charcoal-Navy_FINAL.jpg,112_Tri-Grey-Charcoal-Navy_FINAL.jpg,True,3312
-112,tri-heather-grey-birch-amber-gold,Tri Heather Grey/Birch/Amber Gold,5450,2025-12-17,1,,,False,5450
-112,tri-heather-grey-birch-army-olive,Tri Heather Grey/Birch/Army Olive,7256,2026-03-09,1,,,False,7256
-112,tri-heather-grey-cardinal-navy,Tri Heather Grey/Cardinal/Navy,0,2026-02-09,1,,,False,2026-02-09
-112,tri-heather-grey-charcoal-dark-orange,Tri Heather Grey/Charcoal/Dark Orange,56730,,1,,,False,56730
-112,tri-heather-grey-charcoal-maroon,Tri Heather Grey/Charcoal/Maroon,0,2025-12-30,1,,,False,2025-12-30
-112,tri-heather-grey-red-black,Tri Heather Grey/Red/Black,3570,2026-03-09,1,,,False,3570
-112,tri-mink-beige-charcoal-amber-gold,Tri Mink Beige/Charcoal/Amber Gold,0,2025-12-30,1,,,False,2025-12-30
-112,tri-navy-white-heather-grey,Tri Navy/White/Heather Grey,12726,2025-12-29,1,,,False,12726
+112,tri-heather-grey-birch-amber-gold,Tri Heather Grey/Birch/Amber Gold,5450,2025-12-17,1,112/112_Tri-HeatherGrey-Birch-AmberGold_FINAL.jpg,112_Tri-HeatherGrey-Birch-AmberGold_FINAL.jpg,True,5450
+112,tri-heather-grey-birch-army-olive,Tri Heather Grey/Birch/Army Olive,7256,2026-03-09,1,112/112_Tri-HeatherGrey-Birch-ArmyOlive_FINAL.jpg,112_Tri-HeatherGrey-Birch-ArmyOlive_FINAL.jpg,True,7256
+112,tri-heather-grey-cardinal-navy,Tri Heather Grey/Cardinal/Navy,0,2026-02-09,1,112/112_Tri-HeatherGrey-Cardinal-Navy_FINAL.jpg,112_Tri-HeatherGrey-Cardinal-Navy_FINAL.jpg,True,2026-02-09
+112,tri-heather-grey-charcoal-dark-orange,Tri Heather Grey/Charcoal/Dark Orange,56730,,1,112/112_Tri-HeatherGrey-Charcoal-DarkOrange_FINAL.jpg,112_Tri-HeatherGrey-Charcoal-DarkOrange_FINAL.jpg,True,56730
+112,tri-heather-grey-charcoal-maroon,Tri Heather Grey/Charcoal/Maroon,0,2025-12-30,1,112/112_Tri-HeatherGrey-Charcoal-Maroon_FINAL.jpg,112_Tri-HeatherGrey-Charcoal-Maroon_FINAL.jpg,True,2025-12-30
+112,tri-heather-grey-red-black,Tri Heather Grey/Red/Black,3570,2026-03-09,1,112/112_Tri-HeatherGrey-Red-Black_FINAL.jpg,112_Tri-HeatherGrey-Red-Black_FINAL.jpg,True,3570
+112,tri-mink-beige-charcoal-amber-gold,Tri Mink Beige/Charcoal/Amber Gold,0,2025-12-30,1,112/112_Tri-MinkBeige-Charcoal-AmberGold_FINAL.jpg,112_Tri-MinkBeige-Charcoal-AmberGold_FINAL.jpg,True,2025-12-30
+112,tri-navy-white-heather-grey,Tri Navy/White/Heather Grey,12726,2025-12-29,1,112/112_Tri-Navy-White-HeatherGrey_FINAL.jpg,112_Tri-Navy-White-HeatherGrey_FINAL.jpg,True,12726
 112,tri-navy-white-red,Tri Navy/White/Red,7876,2025-12-29,1,112\112_Tri-Navy-White-Red_FINAL.jpg,112_Tri-Navy-White-Red_FINAL.jpg,True,7876
 112,tri-orange-white-black,Tri Orange/White/Black,21,2025-12-17,1,112\112_Tri-Orange-White-Black_FINAL.jpg,112_Tri-Orange-White-Black_FINAL.jpg,True,21
 112,tri-red-white-black,Tri Red/White/Black,18541,,1,112\112_Tri-Red-White-Black_FINAL.jpg,112_Tri-Red-White-Black_FINAL.jpg,True,18541
-112,tri-red-white-heather-grey,Tri Red/White/Heather Grey,10584,2026-02-09,1,,,False,10584
+112,tri-red-white-heather-grey,Tri Red/White/Heather Grey,10584,2026-02-09,1,112/112_Tri-Red-White-HeatherGrey_FINAL.jpg,112_Tri-Red-White-HeatherGrey_FINAL.jpg,True,10584
 112,tri-red-white-navy,Tri Red/White/Navy,12203,2026-01-02,1,112\112_Tri-Red-White-Navy_FINAL.jpg,112_Tri-Red-White-Navy_FINAL.jpg,True,12203
-112,tri-royal-white-heather-grey,Tri Royal/White/Heather Grey,47771,2026-03-09,1,,,False,47771
+112,tri-royal-white-heather-grey,Tri Royal/White/Heather Grey,47771,2026-03-09,1,112/112_Tri-Royal-White-HeatherGrey_FINAL.jpg,112_Tri-Royal-White-HeatherGrey_FINAL.jpg,True,47771
 112,tri-royal-white-red,Tri Royal/White/Red,18215,2025-12-29,1,112\112_Tri-Royal-White-Red_FINAL.jpg,112_Tri-Royal-White-Red_FINAL.jpg,True,18215
 112,tri-white-aluminum-black,Tri White/Aluminum/Black,20614,2026-04-27,1,112\112_Tri-White-Aluminum-Black_FINAL.jpg,112_Tri-White-Aluminum-Black_FINAL.jpg,True,20614
 112,tri-white-aluminum-navy,Tri White/Aluminum/Navy,2454,2026-03-09,1,112\112_Tri-White-Aluminum-Navy_FINAL.jpg,112_Tri-White-Aluminum-Navy_FINAL.jpg,True,2454
-112,tri-white-columbia-blue-yellow,Tri White/Columbia Blue/Yellow,420,2026-01-05,1,,,False,420
+112,tri-white-columbia-blue-yellow,Tri White/Columbia Blue/Yellow,420,2026-01-05,1,112/112_Tri-White-ColumbiaBlue-Yellow_FINAL.jpg,112_Tri-White-ColumbiaBlue-Yellow_FINAL.jpg,True,420
 112FP,solid-black,Solid Black,0,2026-01-09,1,,,False,2026-01-09
 112FP,solid-navy,Solid Navy,2210,2026-05-04,1,,,False,2210
 112FP,solid-white,Solid White,8107,2026-05-04,1,,,False,8107
@@ -258,54 +258,54 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 112LN,split-asphalt-charcoal,Split Asphalt/Charcoal,0,2026-01-19,1,,,False,2026-01-19
 112LN,split-autumn-brown,Split Autumn/Brown,240,2026-01-19,1,,,False,240
 112LN,split-deep-blue-navy,Split Deep Blue/Navy,0,2026-01-19,1,,,False,2026-01-19
-112P,digital-camo-light-green,Digital Camo/Light Green,9107,2026-02-14,1,,,False,9107
-112P,green-camo-black,Green Camo/Black,18335,2026-02-23,1,,,False,18335
-112P,green-camo-white,Green Camo/White,5817,2026-02-12,1,,,False,5817
-112P,kryptek-highlander-buck,Kryptek Highlander/Buck,5245,2025-12-29,1,,,False,5245
-112P,kryptek-typhon-black,Kryptek Typhon/Black,18056,,1,,,False,18056
-112P,mossy-oak-bottomland-loden,Mossy Oak Bottomland/Loden,0,2026-02-03,1,,,False,2026-02-03
-112P,mossy-oak-country-dna-black,Mossy Oak Country DNA/Black,0,2026-02-24,1,,,False,2026-02-24
-112P,realtree-edge-brown,Realtree Edge/Brown,16261,2026-02-14,1,,,False,16261
+112P,digital-camo-light-green,Digital Camo/Light Green,9107,2026-02-14,1,112P/112P_DigitalCamo-LightGreen_FINAL.jpg,112P_DigitalCamo-LightGreen_FINAL.jpg,True,9107
+112P,green-camo-black,Green Camo/Black,18335,2026-02-23,1,112P/112P_GreenCamo-Black_FINAL.jpg,112P_GreenCamo-Black_FINAL.jpg,True,18335
+112P,green-camo-white,Green Camo/White,5817,2026-02-12,1,112P/112P_GreenCamo-White_FINAL.jpg,112P_GreenCamo-White_FINAL.jpg,True,5817
+112P,kryptek-highlander-buck,Kryptek Highlander/Buck,5245,2025-12-29,1,112P/112P_KryptekHighlander-Buck_FINAL.jpg,112P_KryptekHighlander-Buck_FINAL.jpg,True,5245
+112P,kryptek-typhon-black,Kryptek Typhon/Black,18056,,1,112P/112P_KryptekTyphon-Black_FINAL.jpg,112P_KryptekTyphon-Black_FINAL.jpg,True,18056
+112P,mossy-oak-bottomland-loden,Mossy Oak Bottomland/Loden,0,2026-02-03,1,112P/112P_MossyOakBottomland-Loden_FINAL.jpg,112P_MossyOakBottomland-Loden_FINAL.jpg,True,2026-02-03
+112P,mossy-oak-country-dna-black,Mossy Oak Country DNA/Black,0,2026-02-24,1,112P/112P_MossyOakCountryDNA-Black_FINAL.jpg,112P_MossyOakCountryDNA-Black_FINAL.jpg,True,2026-02-24
+112P,realtree-edge-brown,Realtree Edge/Brown,16261,2026-02-14,1,112P/112P_RealtreeEdge-Brown_FINAL.jpg,112P_RealtreeEdge-Brown_FINAL.jpg,True,16261
 112P,realtree-max-7-buck,Realtree Max-7/Buck,11926,,1,,,False,11926
-112P,realtree-original-black,Realtree Original/Black,44104,,1,,,False,44104
-112PFP,admiral-duck-camo-black,Admiral Duck Camo/Black,5030,2026-01-19,1,,,False,5030
-112PFP,bark-duck-camo-brown,Bark Duck Camo/Brown,17278,2026-02-13,1,,,False,17278
-112PFP,blaze-duck-camo-blaze,Blaze Duck Camo/Blaze,2912,2026-01-19,1,,,False,2912
-112PFP,blizzard-duck-camo-white,Blizzard Duck Camo/White,11631,2026-01-19,1,,,False,11631
-112PFP,desert-camo-brown,Desert Camo/Brown,8,2025-12-29,1,,,False,8
-112PFP,digital-camo-light-green,Digital Camo/Light Green,14522,2026-01-19,1,,,False,14522
-112PFP,green-camo-black,Green Camo/Black,26860,2026-01-19,1,,,False,26860
-112PFP,green-camo-white,Green Camo/White,4017,2026-01-19,1,,,False,4017
+112P,realtree-original-black,Realtree Original/Black,44104,,1,112P/112P_RealtreeOriginal-Black_FINAL.jpg,112P_RealtreeOriginal-Black_FINAL.jpg,True,44104
+112PFP,admiral-duck-camo-black,Admiral Duck Camo/Black,5030,2026-01-19,1,112PFP/112PFP_AdmiralDuckCamo-Black_FINAL.jpg,112PFP_AdmiralDuckCamo-Black_FINAL.jpg,True,5030
+112PFP,bark-duck-camo-brown,Bark Duck Camo/Brown,17278,2026-02-13,1,112PFP/112PFP_BarkDuckCamo-Brown_FINAL.jpg,112PFP_BarkDuckCamo-Brown_FINAL.jpg,True,17278
+112PFP,blaze-duck-camo-blaze,Blaze Duck Camo/Blaze,2912,2026-01-19,1,112PFP/112PFP_BlazeDuckCamo-Blaze_FINAL.jpg,112PFP_BlazeDuckCamo-Blaze_FINAL.jpg,True,2912
+112PFP,blizzard-duck-camo-white,Blizzard Duck Camo/White,11631,2026-01-19,1,112PFP/112PFP_BlizzardDuckCamo-White_FINAL.jpg,112PFP_BlizzardDuckCamo-White_FINAL.jpg,True,11631
+112PFP,desert-camo-brown,Desert Camo/Brown,8,2025-12-29,1,112PFP/112PFP_DesertCamo-Brown_FINAL.jpg,112PFP_DesertCamo-Brown_FINAL.jpg,True,8
+112PFP,digital-camo-light-green,Digital Camo/Light Green,14522,2026-01-19,1,112PFP/112PFP_DigitalCamo-LightGreen_FINAL.jpg,112PFP_DigitalCamo-LightGreen_FINAL.jpg,True,14522
+112PFP,green-camo-black,Green Camo/Black,26860,2026-01-19,1,112PFP/112PFP_GreenCamo-Black_FINAL.jpg,112PFP_GreenCamo-Black_FINAL.jpg,True,26860
+112PFP,green-camo-white,Green Camo/White,4017,2026-01-19,1,112PFP/112PFP_GreenCamo-White_FINAL.jpg,112PFP_GreenCamo-White_FINAL.jpg,True,4017
 112PFP,harvest-duck-camo-light-tan,Harvest Duck Camo/Light Tan,0,2026-02-02,1,,,False,2026-02-02
-112PFP,kryptek-highlander-buck,Kryptek Highlander/Buck,6939,2026-01-19,1,,,False,6939
+112PFP,kryptek-highlander-buck,Kryptek Highlander/Buck,6939,2026-01-19,1,112PFP/112PFP_KryptekHighlander-Buck_FINAL.jpg,112PFP_KryptekHighlander-Buck_FINAL.jpg,True,6939
 112PFP,kryptek-inferno-black,Kryptek Inferno/Black,3580,,1,,,False,3580
-112PFP,kryptek-inferno-blaze-orange,Kryptek Inferno/Blaze Orange,0,2026-05-31,1,,,False,2026-05-31
+112PFP,kryptek-inferno-blaze-orange,Kryptek Inferno/Blaze Orange,0,2026-05-31,1,112PFP/112PFP_KryptekInferno-BlazeOrange_FINAL.jpg,112PFP_KryptekInferno-BlazeOrange_FINAL.jpg,True,2026-05-31
 112PFP,kryptek-neptune-black,Kryptek Neptune/Black,1292,,1,,,False,1292
-112PFP,kryptek-neptune-white,Kryptek Neptune/White,6610,2025-12-29,1,,,False,6610
+112PFP,kryptek-neptune-white,Kryptek Neptune/White,6610,2025-12-29,1,112PFP/112PFP_KryptekNeptune-White_FINAL.jpg,112PFP_KryptekNeptune-White_FINAL.jpg,True,6610
 112PFP,kryptek-pontus-white,Kryptek Pontus/White,7078,2026-01-19,1,,,False,7078
-112PFP,kryptek-typhon-black,Kryptek Typhon/Black,8104,2025-12-29,1,,,False,8104
+112PFP,kryptek-typhon-black,Kryptek Typhon/Black,8104,2025-12-29,1,112PFP/112PFP_KryptekTyphon-Black_FINAL.jpg,112PFP_KryptekTyphon-Black_FINAL.jpg,True,8104
 112PFP,kryptek-typhon-blaze-orange,Kryptek Typhon/Blaze Orange,1715,,1,,,False,1715
 112PFP,kryptek-typhon-neon-pink,Kryptek Typhon/Neon Pink,2398,,1,,,False,2398
 112PFP,kryptek-typhon-neon-yellow,Kryptek Typhon/Neon Yellow,1247,,1,,,False,1247
-112PFP,marsh-duck-camo-loden,Marsh Duck Camo/Loden,8160,2026-01-05,1,,,False,8160
-112PFP,mossy-oak-bottomland-loden,Mossy Oak Bottomland/Loden,0,2026-02-03,1,,,False,2026-02-03
-112PFP,mossy-oak-country-dna-black,Mossy Oak Country DNA/Black,3626,2026-01-19,1,,,False,3626
+112PFP,marsh-duck-camo-loden,Marsh Duck Camo/Loden,8160,2026-01-05,1,112PFP/112PFP_MarshDuckCamo-Loden_FINAL.jpg,112PFP_MarshDuckCamo-Loden_FINAL.jpg,True,8160
+112PFP,mossy-oak-bottomland-loden,Mossy Oak Bottomland/Loden,0,2026-02-03,1,112PFP/112PFP_MossyOakBottomland-Loden_FINAL.jpg,112PFP_MossyOakBottomland-Loden_FINAL.jpg,True,2026-02-03
+112PFP,mossy-oak-country-dna-black,Mossy Oak Country DNA/Black,3626,2026-01-19,1,112PFP/112PFP_MossyOakCountryDNA-Black_FINAL.jpg,112PFP_MossyOakCountryDNA-Black_FINAL.jpg,True,3626
 112PFP,mossy-oak-elements-blacktip-charcoal,Mossy Oak Elements Blacktip/Charcoal,6574,,1,,,False,6574
-112PFP,mossy-oak-elements-bonefish-light-grey,Mossy Oak Elements Bonefish/Light Grey,6082,2026-02-03,1,,,False,6082
-112PFP,mossy-oak-habitat-brown,Mossy Oak Habitat/Brown,2632,2026-05-31,1,,,False,2632
+112PFP,mossy-oak-elements-bonefish-light-grey,Mossy Oak Elements Bonefish/Light Grey,6082,2026-02-03,1,112PFP/112PFP_MossyOakElementsBonefish-LightGrey_FINAL.jpg,112PFP_MossyOakElementsBonefish-LightGrey_FINAL.jpg,True,6082
+112PFP,mossy-oak-habitat-brown,Mossy Oak Habitat/Brown,2632,2026-05-31,1,112PFP/112PFP_MossyOakHabitat-Brown_FINAL.jpg,112PFP_MossyOakHabitat-Brown_FINAL.jpg,True,2632
 112PFP,realtree-edge-blaze-orange,Realtree Edge/Blaze Orange,441,2025-12-29,1,,,False,441
-112PFP,realtree-edge-brown,Realtree Edge/Brown,5333,2026-02-12,1,,,False,5333
-112PFP,realtree-edge-neon-pink,Realtree Edge/Neon Pink,688,,1,,,False,688
-112PFP,realtree-edge-neon-yellow,Realtree Edge/Neon Yellow,4677,,1,,,False,4677
+112PFP,realtree-edge-brown,Realtree Edge/Brown,5333,2026-02-12,1,112PFP/112PFP_RealtreeEdge-Brown_FINAL.jpg,112PFP_RealtreeEdge-Brown_FINAL.jpg,True,5333
+112PFP,realtree-edge-neon-pink,Realtree Edge/Neon Pink,688,,1,112PFP/112PFP_RealtreeEdge-NeonPink_FINAL.jpg,112PFP_RealtreeEdge-NeonPink_FINAL.jpg,True,688
+112PFP,realtree-edge-neon-yellow,Realtree Edge/Neon Yellow,4677,,1,112PFP/112PFP_RealtreeEdge-NeonYellow_FINAL.jpg,112PFP_RealtreeEdge-NeonYellow_FINAL.jpg,True,4677
 112PFP,realtree-fishing-lt-blue-navy,Realtree Fishing Lt. Blue/Navy,3253,,1,,,False,3253
 112PFP,realtree-fishing-lt-blue-white,Realtree Fishing Lt. Blue/White,3912,2026-01-19,1,,,False,3912
 112PFP,realtree-max-1-xt-brown,Realtree Max-1 XT/Brown,14595,,1,,,False,14595
 112PFP,realtree-max-7-buck,Realtree Max-7/Buck,5454,2026-05-31,1,,,False,5454
-112PFP,realtree-original-black,Realtree Original/Black,18660,,1,,,False,18660
-112PFP,realtree-timber-black,Realtree Timber/Black,2678,2026-01-05,1,,,False,2678
-112PFP,sable-duck-camo-black,Sable Duck Camo/Black,0,2026-02-12,1,,,False,2026-02-12
-112PFP,saltwater-duck-camo-charcoal,Saltwater Duck Camo/Charcoal,14683,2026-02-02,1,,,False,14683
-112PFP,sienna-duck-camo-loden,Sienna Duck Camo/Loden,50339,,1,,,False,50339
+112PFP,realtree-original-black,Realtree Original/Black,18660,,1,112PFP/112PFP_RealtreeOriginal-Black_FINAL.jpg,112PFP_RealtreeOriginal-Black_FINAL.jpg,True,18660
+112PFP,realtree-timber-black,Realtree Timber/Black,2678,2026-01-05,1,112PFP/112PFP_RealtreeTimber-Black_FINAL.jpg,112PFP_RealtreeTimber-Black_FINAL.jpg,True,2678
+112PFP,sable-duck-camo-black,Sable Duck Camo/Black,0,2026-02-12,1,112PFP/112PFP_SableDuckCamo-Black_FINAL.jpg,112PFP_SableDuckCamo-Black_FINAL.jpg,True,2026-02-12
+112PFP,saltwater-duck-camo-charcoal,Saltwater Duck Camo/Charcoal,14683,2026-02-02,1,112PFP/112PFP_SaltwaterDuckCamo-Charcoal_FINAL.jpg,112PFP_SaltwaterDuckCamo-Charcoal_FINAL.jpg,True,14683
+112PFP,sienna-duck-camo-loden,Sienna Duck Camo/Loden,50339,,1,112PFP/112PFP_SiennaDuckCamo-Loden_FINAL.jpg,112PFP_SiennaDuckCamo-Loden_FINAL.jpg,True,50339
 112PL,112-solid-black,112+ Solid Black,1,2026-01-05,1,,,False,1
 112PL,112-solid-navy,112+ Solid Navy,5360,2026-03-30,1,,,False,5360
 112PL,112-solid-white,112+ Solid White,3863,2026-03-30,1,,,False,3863
@@ -424,8 +424,8 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 127,royal-grey-osfm-knit,Royal/Grey OSFM Knit,706,,1,,,False,706
 130,black-grey-charcoal,Black/Grey/Charcoal,985,,1,130\130_Black-Grey-Charcoal_FINAL.jpg,130_Black-Grey-Charcoal_FINAL.jpg,True,985
 130,navy-grey-white,Navy/Grey/White,1374,,1,130\130_Navy-Grey-White_FINAL.jpg,130_Navy-Grey-White_FINAL.jpg,True,1374
-130,olive-khaki-light-khaki,Olive/Khaki/Light Khaki,1632,,1,,,False,1632
-130,pink-grey-light-pink,Pink/Grey/Light Pink,149,,1,,,False,149
+130,olive-khaki-light-khaki,Olive/Khaki/Light Khaki,1632,,1,130/130_Olive-Khaki-LightKhaki_FINAL.jpg,130_Olive-Khaki-LightKhaki_FINAL.jpg,True,1632
+130,pink-grey-light-pink,Pink/Grey/Light Pink,149,,1,130/130_Pink-Grey-LightPink_FINAL.jpg,130_Pink-Grey-LightPink_FINAL.jpg,True,149
 130,red-grey-charcoal,Red/Grey/Charcoal,61,,1,130\130_Red-Grey-Charcoal_FINAL.jpg,130_Red-Grey-Charcoal_FINAL.jpg,True,61
 130,royal-grey-charcoal,Royal/Grey/Charcoal,287,,1,130\130_Royal-Grey-Charcoal_FINAL.jpg,130_Royal-Grey-Charcoal_FINAL.jpg,True,287
 135,black-neon-pink-neon-blue-osfm-knit,Black-Neon Pink-Neon Blue OSFM Knit,482,,1,,,False,482
@@ -475,7 +475,7 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 143,dark-sand-osfm-chunk-pom,Dark Sand OSFM - Chunk Pom,31,,1,,,False,31
 143,gun-metal-osfm-chunk-pom,Gun Metal OSFM - Chunk Pom,15,,1,,,False,15
 143,heather-charcoal-osfm-chunk-pom,Heather Charcoal OSFM - Chunk Pom,776,,1,,,False,776
-143,heather-grey,Heather Grey,743,,1,,,False,743
+143,heather-grey,Heather Grey,743,,1,143/143_HeatherGrey_FINAL.jpg,143_HeatherGrey_FINAL.jpg,True,743
 143,heather-grey-rust-osfm-chunk-pom,Heather Grey/Rust OSFM - Chunk Pom,454,,1,,,False,454
 143,slate-osfm-chunk-pom,Slate OSFM - Chunk Pom,287,,1,,,False,287
 145,avocado-osfm-slouch-scrunch,Avocado OSFM - Slouch Scrunch,804,,1,,,False,804
@@ -562,16 +562,16 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 160,solid-white,Solid White,2586,2026-02-23,1,,,False,2586
 163,black-charcoal-orange,Black/Charcoal/Orange,2536,,1,163\163_Black-Charcoal-Orange_FINAL.jpg,163_Black-Charcoal-Orange_FINAL.jpg,True,2536
 163,black-charcoal-red,Black/Charcoal/Red,3870,,1,163\163_Black-Charcoal-Red_FINAL.jpg,163_Black-Charcoal-Red_FINAL.jpg,True,3870
-163,black-light-grey-light-grey,Black/Light Grey/Light Grey,2926,2026-05-04,1,,,False,2926
-163,charcoal-light-grey-light-grey,Charcoal/Light Grey/Light Grey,1811,,1,,,False,1811
-163,dark-green-light-grey-light-grey,Dark Green/Light Grey/Light Grey,2139,,1,,,False,2139
+163,black-light-grey-light-grey,Black/Light Grey/Light Grey,2926,2026-05-04,1,163/163_Black-LightGrey-LightGrey_FINAL.jpg,163_Black-LightGrey-LightGrey_FINAL.jpg,True,2926
+163,charcoal-light-grey-light-grey,Charcoal/Light Grey/Light Grey,1811,,1,163/163_Charcoal-LightGrey-LightGrey_FINAL.jpg,163_Charcoal-LightGrey-LightGrey_FINAL.jpg,True,1811
+163,dark-green-light-grey-light-grey,Dark Green/Light Grey/Light Grey,2139,,1,163/163_DarkGreen-LightGrey-LightGrey_FINAL.jpg,163_DarkGreen-LightGrey-LightGrey_FINAL.jpg,True,2139
 163,kelly-white-yellow,Kelly/White/Yellow,603,2026-01-05,1,163\163_Kelly-White-Yellow_FINAL.jpg,163_Kelly-White-Yellow_FINAL.jpg,True,603
-163,navy-light-grey-light-grey,Navy/Light Grey/Light Grey,0,2026-03-30,1,,,False,2026-03-30
+163,navy-light-grey-light-grey,Navy/Light Grey/Light Grey,0,2026-03-30,1,163/163_Navy-LightGrey-LightGrey_FINAL.jpg,163_Navy-LightGrey-LightGrey_FINAL.jpg,True,2026-03-30
 163,navy-white-red,Navy/White/Red,2955,,1,163\163_Navy-White-Red_FINAL.jpg,163_Navy-White-Red_FINAL.jpg,True,2955
-163,red-light-grey-light-grey,Red/Light Grey/Light Grey,779,,1,,,False,779
-163,royal-light-grey-light-grey,Royal/Light Grey/Light Grey,2905,,1,,,False,2905
+163,red-light-grey-light-grey,Red/Light Grey/Light Grey,779,,1,163/163_Red-LightGrey-LightGrey_FINAL.jpg,163_Red-LightGrey-LightGrey_FINAL.jpg,True,779
+163,royal-light-grey-light-grey,Royal/Light Grey/Light Grey,2905,,1,163/163_Royal-LightGrey-LightGrey_FINAL.jpg,163_Royal-LightGrey-LightGrey_FINAL.jpg,True,2905
 163,royal-white-red,Royal/White/Red,2703,,1,163\163_Royal-White-Red_FINAL.jpg,163_Royal-White-Red_FINAL.jpg,True,2703
-163,white-light-grey-light-grey,White/Light Grey/Light Grey,4341,,1,,,False,4341
+163,white-light-grey-light-grey,White/Light Grey/Light Grey,4341,,1,163/163_White-LightGrey-LightGrey_FINAL.jpg,163_White-LightGrey-LightGrey_FINAL.jpg,True,4341
 168,alternate-brown-khaki,Alternate Brown/Khaki,0,2026-01-05,1,,,False,2026-01-05
 168,alternate-heather-grey-black,Alternate Heather Grey/Black,0,2026-02-02,1,,,False,2026-02-02
 168,solid-black,Solid Black,0,2026-01-13,1,,,False,2026-01-13
@@ -591,12 +591,12 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 168,tri-black-green-camo-loden,Tri Black/Green Camo/Loden,13165,2026-03-30,1,,,False,13165
 168,tri-charcoal-black-white,Tri Charcoal/Black/White,975,2026-01-26,1,,,False,975
 168,tri-charcoal-burnt-orange-black,Tri Charcoal/Burnt Orange/Black,3036,2026-03-30,1,,,False,3036
-168P,bark-duck-camo-brown,Bark Duck Camo/Brown,52108,,1,,,False,52108
-168P,harvest-duck-camo-sandstone,Harvest Duck Camo/Sandstone,45672,,1,,,False,45672
-168P,marsh-duck-camo-loden,Marsh Duck Camo/Loden,58624,,1,,,False,58624
-168P,mossy-oak-bottomland-loden,Mossy Oak Bottomland/Loden,36044,2026-05-04,1,,,False,36044
+168P,bark-duck-camo-brown,Bark Duck Camo/Brown,52108,,1,168P/168P_BarkDuckCamo-Brown_FINAL.jpg,168P_BarkDuckCamo-Brown_FINAL.jpg,True,52108
+168P,harvest-duck-camo-sandstone,Harvest Duck Camo/Sandstone,45672,,1,168P/168P_HarvestDuckCamo-Sandstone_FINAL.jpg,168P_HarvestDuckCamo-Sandstone_FINAL.jpg,True,45672
+168P,marsh-duck-camo-loden,Marsh Duck Camo/Loden,58624,,1,168P/168P_MarshDuckCamo-Loden_FINAL.jpg,168P_MarshDuckCamo-Loden_FINAL.jpg,True,58624
+168P,mossy-oak-bottomland-loden,Mossy Oak Bottomland/Loden,36044,2026-05-04,1,168P/168P_MossyOakBottomland-Loden_FINAL.jpg,168P_MossyOakBottomland-Loden_FINAL.jpg,True,36044
 168P,realtree-advantage-dk-khaki,Realtree Advantage/DK Khaki,4606,2026-01-13,1,,,False,4606
-168P,saltwater-duck-camo-ice-grey,Saltwater Duck Camo/Ice Grey,17555,,1,,,False,17555
+168P,saltwater-duck-camo-ice-grey,Saltwater Duck Camo/Ice Grey,17555,,1,168P/168P_SaltwaterDuckCamo-IceGrey_FINAL.jpg,168P_SaltwaterDuckCamo-IceGrey_FINAL.jpg,True,17555
 169,cannon-solid-basil-green,Cannon Solid Basil Green,5129,,1,,,False,5129
 169,cannon-solid-black,Cannon Solid Black,65,2026-01-09,1,,,False,65
 169,cannon-solid-charcoal,Cannon Solid Charcoal,1095,2026-03-23,1,,,False,1095
@@ -672,11 +672,11 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 173,tri-desert-orange-light-khaki-insignia-blue,Tri Desert Orange/Light Khaki/Insignia Blue,10315,,1,,,False,10315
 173,tri-red-mahogany-medium-grey-insignia-blue,Tri Red Mahogany/Medium Grey/Insignia Blue,11834,,1,,,False,11834
 176,charcoal-white,Charcoal/White,1530,,1,176\176_Charcoal-White_FINAL.jpg,176_Charcoal-White_FINAL.jpg,True,1530
-176,dark-green-white,Dark Green/White,486,,1,,,False,486
+176,dark-green-white,Dark Green/White,486,,1,176/176_DarkGreen-White_FINAL.jpg,176_DarkGreen-White_FINAL.jpg,True,486
 176,navy-white,Navy/White,21,,1,176\176_Navy-White_FINAL.jpg,176_Navy-White_FINAL.jpg,True,21
 178,gold-carbon,Gold/Carbon,28,,1,,,False,28
 185,solid-black,Solid Black,3420,2025-12-17,3,185\185_Solid-Black_FINAL.jpg,185_Solid-Black_FINAL.jpg,True,3420
-185,solid-dark-green,Solid Dark Green,1020,,3,,,False,1020
+185,solid-dark-green,Solid Dark Green,1020,,3,185/185_Solid-DarkGreen_FINAL.jpg,185_Solid-DarkGreen_FINAL.jpg,True,1020
 185,solid-grey,Solid Grey,901,2026-03-30,3,185\185_Solid-Grey_FINAL.jpg,185_Solid-Grey_FINAL.jpg,True,901
 185,solid-kelly,Solid Kelly,1374,,3,185\185_Solid-Kelly_FINAL.jpg,185_Solid-Kelly_FINAL.jpg,True,1374
 185,solid-maroon,Solid Maroon,2136,,3,185\185_Solid-Maroon_FINAL.jpg,185_Solid-Maroon_FINAL.jpg,True,2136
@@ -704,7 +704,7 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 203,solid-driftwood,Solid Driftwood,29,,1,,,False,29
 203,solid-navy,Solid Navy,2756,,1,,,False,2756
 203,solid-white,Solid White,1204,,1,,,False,1204
-212,combination-black-blue-teal,Combination Black/Blue Teal,246,2026-06-30,1,,,False,246
+212,combination-black-blue-teal,Combination Black/Blue Teal,246,2026-06-30,1,212/212_Combination-Black-BlueTeal_FINAL.jpg,212_Combination-Black-BlueTeal_FINAL.jpg,True,246
 212,combination-black-blue-teal-sm,Combination Black/Blue Teal SM,443,,1,,,False,443
 212,combination-black-gold,Combination Black/Gold,830,,1,212\212_Combination-Black-Gold_FINAL.jpg,212_Combination-Black-Gold_FINAL.jpg,True,830
 212,combination-black-gold-sm,Combination Black/Gold SM,701,,1,,,False,701
@@ -716,9 +716,9 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 212,combination-black-red-sm,Combination Black/Red SM,777,2026-03-30,1,,,False,777
 212,combination-black-royal,Combination Black/Royal,837,2026-03-30,1,212\212_Combination-Black-Royal_FINAL.jpg,212_Combination-Black-Royal_FINAL.jpg,True,837
 212,combination-black-royal-sm,Combination Black/Royal SM,281,2026-06-30,1,,,False,281
-212,combination-blue-teal-black,Combination Blue Teal/Black,126,2026-02-16,1,,,False,126
+212,combination-blue-teal-black,Combination Blue Teal/Black,126,2026-02-16,1,212/212_Combination-BlueTeal-Black_FINAL.jpg,212_Combination-BlueTeal-Black_FINAL.jpg,True,126
 212,combination-blue-teal-black-sm,Combination Blue Teal/Black SM,484,,1,,,False,484
-212,combination-dark-green-gold,Combination Dark Green/Gold,692,2026-04-20,1,,,False,692
+212,combination-dark-green-gold,Combination Dark Green/Gold,692,2026-04-20,1,212/212_Combination-DarkGreen-Gold_FINAL.jpg,212_Combination-DarkGreen-Gold_FINAL.jpg,True,692
 212,combination-dark-green-gold-sm,Combination Dark Green/Gold SM,1155,,1,,,False,1155
 212,combination-grey-black,Combination Grey/Black,695,2026-03-30,1,212\212_Combination-Grey-Black_FINAL.jpg,212_Combination-Grey-Black_FINAL.jpg,True,695
 212,combination-grey-black-sm,Combination Grey/Black SM,1772,2026-02-16,1,,,False,1772
@@ -746,7 +746,7 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 212,combination-royal-red-sm,Combination Royal/Red SM,569,2026-03-30,1,,,False,569
 212,combination-white-black,Combination White/Black,1158,2026-01-02,1,212\212_Combination-White-Black_FINAL.jpg,212_Combination-White-Black_FINAL.jpg,True,1158
 212,combination-white-black-sm,Combination White/Black SM,597,2026-03-30,1,,,False,597
-212,combination-white-dark-green,Combination White/Dark Green,305,2026-03-02,1,,,False,305
+212,combination-white-dark-green,Combination White/Dark Green,305,2026-03-02,1,212/212_Combination-White-DarkGreen_FINAL.jpg,212_Combination-White-DarkGreen_FINAL.jpg,True,305
 212,combination-white-dark-green-sm,Combination White/Dark Green SM,870,,1,,,False,870
 212,combination-white-navy,Combination White/Navy,3,2026-02-16,1,212\212_Combination-White-Navy_FINAL.jpg,212_Combination-White-Navy_FINAL.jpg,True,3
 212,combination-white-navy-sm,Combination White/Navy SM,527,,1,,,False,527
@@ -758,14 +758,14 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 212,combination-white-royal-sm,Combination White/Royal SM,419,2026-02-16,1,,,False,419
 212,solid-black,Solid Black,2443,2026-01-02,1,212\212_Solid-Black_FINAL.jpg,212_Solid-Black_FINAL.jpg,True,2443
 212,solid-black-sm,Solid Black SM,1735,2025-12-17,1,,,False,1735
-212,solid-blue-teal,Solid Blue Teal,295,2026-02-16,1,,,False,295
+212,solid-blue-teal,Solid Blue Teal,295,2026-02-16,1,212/212_Solid-BlueTeal_FINAL.jpg,212_Solid-BlueTeal_FINAL.jpg,True,295
 212,solid-blue-teal-sm,Solid Blue Teal SM,251,2025-12-17,1,,,False,251
 212,solid-cardinal,Solid Cardinal,339,2026-03-30,1,212\212_Solid-Cardinal_FINAL.jpg,212_Solid-Cardinal_FINAL.jpg,True,339
 212,solid-cardinal-sm,Solid Cardinal SM,326,,1,,,False,326
 212,solid-charcoal,Solid Charcoal,3055,2026-02-16,2,212\212_Solid-Charcoal_FINAL.jpg,212_Solid-Charcoal_FINAL.jpg,True,3055
-212,solid-columbia-blue,Solid Columbia Blue,123,2026-02-16,1,,,False,123
+212,solid-columbia-blue,Solid Columbia Blue,123,2026-02-16,1,212/212_Solid-ColumbiaBlue_FINAL.jpg,212_Solid-ColumbiaBlue_FINAL.jpg,True,123
 212,solid-columbia-blue-sm,Solid Columbia Blue SM,1106,2026-02-16,1,,,False,1106
-212,solid-dark-green,Solid Dark Green,871,2026-02-16,1,,,False,871
+212,solid-dark-green,Solid Dark Green,871,2026-02-16,1,212/212_Solid-DarkGreen_FINAL.jpg,212_Solid-DarkGreen_FINAL.jpg,True,871
 212,solid-dark-green-sm,Solid Dark Green SM,1378,,1,,,False,1378
 212,solid-gold,Solid Gold,119,2026-02-16,1,212\212_Solid-Gold_FINAL.jpg,212_Solid-Gold_FINAL.jpg,True,119
 212,solid-gold-sm,Solid Gold SM,4,2026-02-16,1,,,False,4
@@ -785,13 +785,13 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 212,solid-red-sm,Solid Red SM,77,2026-02-16,1,,,False,77
 212,solid-royal,Solid Royal,2170,2026-01-02,1,212\212_Solid-Royal_FINAL.jpg,212_Solid-Royal_FINAL.jpg,True,2170
 212,solid-royal-sm,Solid Royal SM,1617,2026-02-16,1,,,False,1617
-212,solid-vegas-gold,Solid Vegas Gold,967,,1,,,False,967
+212,solid-vegas-gold,Solid Vegas Gold,967,,1,212/212_Solid-VegasGold_FINAL.jpg,212_Solid-VegasGold_FINAL.jpg,True,967
 212,solid-vegas-gold-sm,Solid Vegas Gold SM,227,,1,,,False,227
 212,solid-white,Solid White,1941,2026-01-02,1,212\212_Solid-White_FINAL.jpg,212_Solid-White_FINAL.jpg,True,1941
 212,solid-white-sm,Solid White SM,449,2026-03-30,1,,,False,449
 213,split-black-charcoal-w-black-rope,Split Black/Charcoal w/ Black Rope,1460,,1,,,False,1460
 213,split-red-white-w-royal-rope,Split Red/White w/ Royal Rope,1387,,1,,,False,1387
-214,solid-blue-teal,Solid Blue Teal,134,,1,,,False,134
+214,solid-blue-teal,Solid Blue Teal,134,,1,214/214_Solid-BlueTeal_FINAL.jpg,214_Solid-BlueTeal_FINAL.jpg,True,134
 214,solid-blue-teal-sm,Solid Blue Teal SM,157,,1,,,False,157
 214,solid-cardinal,Solid Cardinal,35,,1,214\214_Solid-Cardinal_FINAL.jpg,214_Solid-Cardinal_FINAL.jpg,True,35
 214,solid-cardinal-sm,Solid Cardinal SM,169,,1,,,False,169
@@ -835,10 +835,10 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 222,solid-white,Solid White,2359,,1,,,False,2359
 222,split-black-white,Split Black/White,4528,,1,,,False,4528
 222,split-navy-white,Split Navy/White,1859,,1,,,False,1859
-224RE,heather-dark-grey,Heather Dark Grey,1543,,1,,,False,1543
-224RE,heather-grey,Heather Grey,69,,1,,,False,69
-224RE,heather-light-navy,Heather Light Navy,199,,1,,,False,199
-224RE,heather-maroon,Heather Maroon,1395,,1,,,False,1395
+224RE,heather-dark-grey,Heather Dark Grey,1543,,1,224RE/224RE_HeatherDarkGrey_FINAL.jpg,224RE_HeatherDarkGrey_FINAL.jpg,True,1543
+224RE,heather-grey,Heather Grey,69,,1,224RE/224RE_HeatherGrey_FINAL.jpg,224RE_HeatherGrey_FINAL.jpg,True,69
+224RE,heather-light-navy,Heather Light Navy,199,,1,224RE/224RE_HeatherLightNavy_FINAL.jpg,224RE_HeatherLightNavy_FINAL.jpg,True,199
+224RE,heather-maroon,Heather Maroon,1395,,1,224RE/224RE_HeatherMaroon_FINAL.jpg,224RE_HeatherMaroon_FINAL.jpg,True,1395
 225,solid-black,Solid Black,9829,2025-12-29,1,,,False,9829
 225,solid-charcoal,Solid Charcoal,6980,,1,,,False,6980
 225,solid-dark-green,Solid Dark Green,0,2026-02-23,1,,,False,2026-02-23
@@ -860,7 +860,7 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 227,split-navy-white,Split Navy/White,2024,,1,,,False,2024
 227,split-red-white,Split Red/White,1509,,1,,,False,1509
 227,split-royal-white,Split Royal/White,1217,,2,,,False,1217
-252L,insignia-blue,Insignia Blue,518,,1,,,False,518
+252L,insignia-blue,Insignia Blue,518,,1,252L/252L_InsigniaBlue_FINAL.jpg,252L_InsigniaBlue_FINAL.jpg,True,518
 253,timberline-black,Timberline Black,1397,2026-02-02,1,,,False,1397
 253,timberline-navy,Timberline Navy,2903,,1,,,False,2903
 253,timberline-olive,Timberline Olive,159,2025-12-17,1,,,False,159
@@ -868,13 +868,13 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 254RE,black,Black,2801,,1,254RE\254RE_Black_FINAL.jpg,254RE_Black_FINAL.jpg,True,2801
 254RE,navy,Navy,3836,,1,254RE\254RE_Navy_FINAL.jpg,254RE_Navy_FINAL.jpg,True,3836
 254RE,white,White,1099,,1,254RE\254RE_White_FINAL.jpg,254RE_White_FINAL.jpg,True,1099
-255,army-olive,Army Olive,2679,2026-03-30,1,,,False,2679
+255,army-olive,Army Olive,2679,2026-03-30,1,255/255_ArmyOlive_FINAL.jpg,255_ArmyOlive_FINAL.jpg,True,2679
 255,berry,Berry,1257,,1,255\255_Berry_FINAL.jpg,255_Berry_FINAL.jpg,True,1257
 255,biscuit,Biscuit,1161,2026-05-04,1,255\255_Biscuit_FINAL.jpg,255_Biscuit_FINAL.jpg,True,1161
 255,black,Black,180,2026-01-09,2,255\255_Black_FINAL.jpg,255_Black_FINAL.jpg,True,180
-255,flint-grey,Flint Grey,5523,,1,,,False,5523
-255,green-camo,Green Camo,87,2026-03-30,1,,,False,87
-255,heather-grey,Heather Grey,3147,2025-12-17,2,,,False,3147
+255,flint-grey,Flint Grey,5523,,1,255/255_FlintGrey_FINAL.jpg,255_FlintGrey_FINAL.jpg,True,5523
+255,green-camo,Green Camo,87,2026-03-30,1,255/255_GreenCamo_FINAL.jpg,255_GreenCamo_FINAL.jpg,True,87
+255,heather-grey,Heather Grey,3147,2025-12-17,2,255/255_HeatherGrey_FINAL.jpg,255_HeatherGrey_FINAL.jpg,True,3147
 255,navy,Navy,3977,,1,255\255_Navy_FINAL.jpg,255_Navy_FINAL.jpg,True,3977
 256,umpqua-birch-w-black-rope,Umpqua Birch w/ Black Rope,13899,2026-03-23,1,,,False,13899
 256,umpqua-biscuit-w-black-rope,Umpqua Biscuit w/ Black Rope,31681,,1,,,False,31681
@@ -906,7 +906,7 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 257,alternate-pigeon-navy,Alternate Pigeon/Navy,4424,,1,,,False,4424
 257,biscuit,Biscuit,2588,,1,257\257_Biscuit_FINAL.jpg,257_Biscuit_FINAL.jpg,True,2588
 257,black,Black,2695,,1,257\257_Black_FINAL.jpg,257_Black_FINAL.jpg,True,2695
-257,dark-loden,Dark Loden,1725,,1,,,False,1725
+257,dark-loden,Dark Loden,1725,,1,257/257_DarkLoden_FINAL.jpg,257_DarkLoden_FINAL.jpg,True,1725
 258,black-w-white-rope,Black w/ White Rope,0,2026-02-12,1,,,False,2026-02-12
 258,dark-grey-w-white-rope,Dark Grey w/ White Rope,742,2025-12-17,1,,,False,742
 258,dark-olive-w-white-rope,Dark Olive w/ White Rope,0,2025-12-24,1,,,False,2025-12-24
@@ -1085,8 +1085,8 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 435,solid-buck,Solid Buck,3784,2026-06-30,1,,,False,3784
 435,solid-dark-olive,Solid Dark Olive,925,2026-01-02,1,,,False,925
 436,brown,Brown,1553,,1,436\436_Brown_FINAL.jpg,436_Brown_FINAL.jpg,True,1553
-436,dark-tan,Dark Tan,2096,,1,,,False,2096
-436,light-navy,Light Navy,2526,,1,,,False,2526
+436,dark-tan,Dark Tan,2096,,1,436/436_DarkTan_FINAL.jpg,436_DarkTan_FINAL.jpg,True,2096
+436,light-navy,Light Navy,2526,,1,436/436_LightNavy_FINAL.jpg,436_LightNavy_FINAL.jpg,True,2526
 436,olive,Olive,1293,,1,436\436_Olive_FINAL.jpg,436_Olive_FINAL.jpg,True,1293
 485,black-white,Black/White,2175,2026-01-09,2,485\485_Black-White_FINAL.jpg,485_Black-White_FINAL.jpg,True,2175
 487,solid-white,Solid White,2078,,2,,,False,2078
@@ -1120,12 +1120,12 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 510,510w-solid-heather-grey,510W Solid Heather Grey,370,2026-03-30,1,,,False,370
 510,510w-solid-loden,510W Solid Loden,467,2026-05-04,1,,,False,467
 510,510w-solid-navy,510W Solid Navy,2283,,1,,,False,2283
-511,black-neon-orange,Black/Neon Orange,627,,1,,,False,627
-511,black-neon-yellow,Black/Neon Yellow,965,2026-05-11,1,,,False,965
+511,black-neon-orange,Black/Neon Orange,627,,1,511/511_Black-NeonOrange_FINAL.jpg,511_Black-NeonOrange_FINAL.jpg,True,627
+511,black-neon-yellow,Black/Neon Yellow,965,2026-05-11,1,511/511_Black-NeonYellow_FINAL.jpg,511_Black-NeonYellow_FINAL.jpg,True,965
 511,black-white,Black/White,149,2026-01-05,1,511\511_Black-White_FINAL.jpg,511_Black-White_FINAL.jpg,True,149
 511,charcoal-white,Charcoal/White,2677,2026-01-05,1,511\511_Charcoal-White_FINAL.jpg,511_Charcoal-White_FINAL.jpg,True,2677
-511,dark-green-white,Dark Green/White,982,,1,,,False,982
-511,heather-grey-black,Heather Grey/Black,1855,2026-03-30,1,,,False,1855
+511,dark-green-white,Dark Green/White,982,,1,511/511_DarkGreen-White_FINAL.jpg,511_DarkGreen-White_FINAL.jpg,True,982
+511,heather-grey-black,Heather Grey/Black,1855,2026-03-30,1,511/511_HeatherGrey-Black_FINAL.jpg,511_HeatherGrey-Black_FINAL.jpg,True,1855
 511,khaki-black,Khaki/Black,1651,2026-03-30,1,511\511_Khaki-Black_FINAL.jpg,511_Khaki-Black_FINAL.jpg,True,1651
 511,loden-black,Loden/Black,5114,2026-03-30,1,511\511_Loden-Black_FINAL.jpg,511_Loden-Black_FINAL.jpg,True,5114
 511,maroon-white,Maroon/White,208,2026-03-30,1,511\511_Maroon-White_FINAL.jpg,511_Maroon-White_FINAL.jpg,True,208
@@ -1138,7 +1138,7 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 511,split-brown-khaki,Split Brown/Khaki,120,2026-01-26,1,,,False,120
 511,split-green-camo-black,Split Green Camo/Black,1198,2026-01-05,1,,,False,1198
 511,split-heather-charcoal-white,Split Heather Charcoal/White,1251,2026-01-09,1,,,False,1251
-511,tiger-camo-black,Tiger Camo/Black,831,2026-01-05,1,,,False,831
+511,tiger-camo-black,Tiger Camo/Black,831,2026-01-05,1,511/511_TigerCamo-Black_FINAL.jpg,511_TigerCamo-Black_FINAL.jpg,True,831
 511,tri-heather-grey-birch-biscuit,Tri Heather Grey/Birch/Biscuit,2262,2026-01-26,1,,,False,2262
 512,combination-birch-black,Combination Birch/Black,347,2026-02-23,1,512\512_Combination-Birch-Black_FINAL.jpg,512_Combination-Birch-Black_FINAL.jpg,True,347
 512,combination-birch-navy,Combination Birch/Navy,1105,,1,512\512_Combination-Birch-Navy_FINAL.jpg,512_Combination-Birch-Navy_FINAL.jpg,True,1105
@@ -1151,8 +1151,8 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 512,solid-black-sm,Solid Black SM,587,2026-02-23,1,,,False,587
 512,solid-cardinal,Solid Cardinal,581,,1,512\512_Solid-Cardinal_FINAL.jpg,512_Solid-Cardinal_FINAL.jpg,True,581
 512,solid-charcoal,Solid Charcoal,388,2026-02-23,1,512\512_Solid-Charcoal_FINAL.jpg,512_Solid-Charcoal_FINAL.jpg,True,388
-512,solid-columbia-blue,Solid Columbia Blue,348,2026-02-23,1,,,False,348
-512,solid-dark-green,Solid Dark Green,1507,,1,,,False,1507
+512,solid-columbia-blue,Solid Columbia Blue,348,2026-02-23,1,512/512_Solid-ColumbiaBlue_FINAL.jpg,512_Solid-ColumbiaBlue_FINAL.jpg,True,348
+512,solid-dark-green,Solid Dark Green,1507,,1,512/512_Solid-DarkGreen_FINAL.jpg,512_Solid-DarkGreen_FINAL.jpg,True,1507
 512,solid-dark-green-sm,Solid Dark Green SM,37,,1,,,False,37
 512,solid-grey,Solid Grey,1259,2026-02-23,1,512\512_Solid-Grey_FINAL.jpg,512_Solid-Grey_FINAL.jpg,True,1259
 512,solid-grey-sm,Solid Grey SM,156,2026-02-23,1,,,False,156
@@ -1171,7 +1171,7 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 514,combination-charcoal-black,Combination Charcoal/Black,288,,1,514\514_Combination-Charcoal-Black_FINAL.jpg,514_Combination-Charcoal-Black_FINAL.jpg,True,288
 514,combination-dark-green-gold-sm,Combination Dark Green/Gold SM,64,,1,,,False,64
 514,combination-grey-black-sm,Combination Grey/Black SM,23,,1,,,False,23
-514,combination-grey-dark-green,Combination Grey/Dark Green,737,,1,,,False,737
+514,combination-grey-dark-green,Combination Grey/Dark Green,737,,1,514/514_Combination-Grey-DarkGreen_FINAL.jpg,514_Combination-Grey-DarkGreen_FINAL.jpg,True,737
 514,combination-grey-dark-green-sm,Combination Grey/Dark Green SM,18,,1,,,False,18
 514,combination-grey-maroon,Combination Grey/Maroon,296,,1,514\514_Combination-Grey-Maroon_FINAL.jpg,514_Combination-Grey-Maroon_FINAL.jpg,True,296
 514,combination-grey-navy,Combination Grey/Navy,581,,1,514\514_Combination-Grey-Navy_FINAL.jpg,514_Combination-Grey-Navy_FINAL.jpg,True,581
@@ -1294,7 +1294,7 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 585,combination-charcoal-black,Combination Charcoal/Black,558,,3,585\585_Combination-Charcoal-Black_FINAL.jpg,585_Combination-Charcoal-Black_FINAL.jpg,True,558
 585,combination-grey-black,Combination Grey/Black,308,,2,585\585_Combination-Grey-Black_FINAL.jpg,585_Combination-Grey-Black_FINAL.jpg,True,308
 585,combination-grey-navy,Combination Grey/Navy,1234,,3,585\585_Combination-Grey-Navy_FINAL.jpg,585_Combination-Grey-Navy_FINAL.jpg,True,1234
-585,combination-heather-grey-black,Combination Heather Grey/Black,682,,3,,,False,682
+585,combination-heather-grey-black,Combination Heather Grey/Black,682,,3,585/585_Combination-HeatherGrey-Black_FINAL.jpg,585_Combination-HeatherGrey-Black_FINAL.jpg,True,682
 585,combination-navy-red,Combination Navy/Red,325,,2,585\585_Combination-Navy-Red_FINAL.jpg,585_Combination-Navy-Red_FINAL.jpg,True,325
 585,combination-red-black,Combination Red/Black,527,,2,585\585_Combination-Red-Black_FINAL.jpg,585_Combination-Red-Black_FINAL.jpg,True,527
 585,combination-red-navy,Combination Red/Navy,962,,3,585\585_Combination-Red-Navy_FINAL.jpg,585_Combination-Red-Navy_FINAL.jpg,True,962
@@ -1303,11 +1303,11 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 585,solid-brown,Solid Brown,426,,1,585\585_Solid-Brown_FINAL.jpg,585_Solid-Brown_FINAL.jpg,True,426
 585,solid-cardinal,Solid Cardinal,486,,3,585\585_Solid-Cardinal_FINAL.jpg,585_Solid-Cardinal_FINAL.jpg,True,486
 585,solid-charcoal,Solid Charcoal,1426,2026-04-27,3,585\585_Solid-Charcoal_FINAL.jpg,585_Solid-Charcoal_FINAL.jpg,True,1426
-585,solid-columbia-blue,Solid Columbia Blue,324,,2,,,False,324
-585,solid-dark-green,Solid Dark Green,2277,,3,,,False,2277
+585,solid-columbia-blue,Solid Columbia Blue,324,,2,585/585_Solid-ColumbiaBlue_FINAL.jpg,585_Solid-ColumbiaBlue_FINAL.jpg,True,324
+585,solid-dark-green,Solid Dark Green,2277,,3,585/585_Solid-DarkGreen_FINAL.jpg,585_Solid-DarkGreen_FINAL.jpg,True,2277
 585,solid-gold,Solid Gold,326,,2,585\585_Solid-Gold_FINAL.jpg,585_Solid-Gold_FINAL.jpg,True,326
 585,solid-grey,Solid Grey,2281,,3,585\585_Solid-Grey_FINAL.jpg,585_Solid-Grey_FINAL.jpg,True,2281
-585,solid-heather-grey,Solid Heather Grey,2810,,3,,,False,2810
+585,solid-heather-grey,Solid Heather Grey,2810,,3,585/585_Solid-HeatherGrey_FINAL.jpg,585_Solid-HeatherGrey_FINAL.jpg,True,2810
 585,solid-kelly,Solid Kelly,169,,2,585\585_Solid-Kelly_FINAL.jpg,585_Solid-Kelly_FINAL.jpg,True,169
 585,solid-maroon,Solid Maroon,901,2026-01-05,3,585\585_Solid-Maroon_FINAL.jpg,585_Solid-Maroon_FINAL.jpg,True,901
 585,solid-navy,Solid Navy,2010,2025-12-17,3,585\585_Solid-Navy_FINAL.jpg,585_Solid-Navy_FINAL.jpg,True,2010
@@ -1359,17 +1359,17 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 632,solid-charcoal-r-flex-adj-sm,Solid Charcoal R-Flex Adj SM,20,2026-01-05,1,,,False,20
 632,solid-columbia-blue,Solid Columbia Blue,3703,2026-01-09,1,,,False,3703
 632,solid-columbia-blue-r-flex-adj-sm,Solid Columbia Blue R-Flex Adj SM,1859,2026-01-05,1,,,False,1859
-632,solid-dark-green,Solid Dark Green,919,2026-03-30,1,,,False,919
+632,solid-dark-green,Solid Dark Green,919,2026-03-30,1,632/632_Solid-DarkGreen_FINAL.jpg,632_Solid-DarkGreen_FINAL.jpg,True,919
 632,solid-dark-green-r-flex-sm,Solid Dark Green R-Flex SM,198,,1,,,False,198
 632,solid-grey,Solid Grey,1354,2026-01-13,1,632\632_Solid-Grey_FINAL.jpg,632_Solid-Grey_FINAL.jpg,True,1354
 632,solid-grey-r-flex-adj-sm,Solid Grey R-Flex Adj SM,4674,,1,,,False,4674
-632,solid-light-blue,Solid Light Blue,693,,1,,,False,693
+632,solid-light-blue,Solid Light Blue,693,,1,632/632_Solid-LightBlue_FINAL.jpg,632_Solid-LightBlue_FINAL.jpg,True,693
 632,solid-light-blue-r-flex-adj-sm,Solid Light Blue R-Flex Adj SM,485,,1,,,False,485
 632,solid-maroon,Solid Maroon,700,2026-03-30,1,632\632_Solid-Maroon_FINAL.jpg,632_Solid-Maroon_FINAL.jpg,True,700
 632,solid-maroon-r-flex-adj-sm,Solid Maroon R-Flex Adj SM,362,,1,,,False,362
 632,solid-navy,Solid Navy,387,2026-01-13,1,632\632_Solid-Navy_FINAL.jpg,632_Solid-Navy_FINAL.jpg,True,387
 632,solid-navy-r-flex-adj-sm,Solid Navy R-Flex Adj SM,183,2026-02-02,1,,,False,183
-632,solid-oat-milk,Solid Oat Milk,3091,2026-03-23,1,,,False,3091
+632,solid-oat-milk,Solid Oat Milk,3091,2026-03-23,1,632/632_Solid-OatMilk_FINAL.jpg,632_Solid-OatMilk_FINAL.jpg,True,3091
 632,solid-oat-milk-r-flex-adj-sm,Solid Oat Milk R-Flex Adj SM,395,,1,,,False,395
 632,solid-purple,Solid Purple,0,2026-01-26,1,632\632_Solid-Purple_FINAL.jpg,632_Solid-Purple_FINAL.jpg,True,2026-01-26
 632,solid-purple-r-flex-adj-sm,Solid Purple R-Flex Adj SM,513,,1,,,False,513
@@ -1377,9 +1377,9 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 632,solid-red-r-flex-adj-sm,Solid Red R-Flex Adj SM,184,2026-03-30,1,,,False,184
 632,solid-royal,Solid Royal,55,2026-01-26,1,632\632_Solid-Royal_FINAL.jpg,632_Solid-Royal_FINAL.jpg,True,55
 632,solid-royal-r-flex-adj-sm,Solid Royal R-Flex Adj SM,697,2026-03-30,1,,,False,697
-632,solid-smoke-blue,Solid Smoke Blue,8235,,1,,,False,8235
+632,solid-smoke-blue,Solid Smoke Blue,8235,,1,632/632_Solid-SmokeBlue_FINAL.jpg,632_Solid-SmokeBlue_FINAL.jpg,True,8235
 632,solid-smoke-blue-r-flex-adj-sm,Solid Smoke Blue R-Flex Adj SM,774,,1,,,False,774
-632,solid-soft-blue,Solid Soft Blue,9611,,1,,,False,9611
+632,solid-soft-blue,Solid Soft Blue,9611,,1,632/632_Solid-SoftBlue_FINAL.jpg,632_Solid-SoftBlue_FINAL.jpg,True,9611
 632,solid-soft-blue-r-flex-adj-sm,Solid Soft Blue R-Flex Adj SM,844,,1,,,False,844
 632,solid-white,Solid White,2207,2026-01-09,1,632\632_Solid-White_FINAL.jpg,632_Solid-White_FINAL.jpg,True,2207
 632,solid-white-r-flex-adj-sm,Solid White R-Flex Adj SM,604,2026-03-30,1,,,False,604
@@ -1478,7 +1478,7 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 775,charcoal-purple,Charcoal/Purple,1072,,1,775\775_Charcoal-Purple_FINAL.jpg,775_Charcoal-Purple_FINAL.jpg,True,1072
 775,charcoal-red,Charcoal/Red,308,,1,775\775_Charcoal-Red_FINAL.jpg,775_Charcoal-Red_FINAL.jpg,True,308
 775,charcoal-royal,Charcoal/Royal,1407,,1,775\775_Charcoal-Royal_FINAL.jpg,775_Charcoal-Royal_FINAL.jpg,True,1407
-775,charcoal-vegas-gold,Charcoal/Vegas Gold,69,,1,,,False,69
+775,charcoal-vegas-gold,Charcoal/Vegas Gold,69,,1,775/775_Charcoal-VegasGold_FINAL.jpg,775_Charcoal-VegasGold_FINAL.jpg,True,69
 810,solid-black,Solid Black,367,2026-03-30,1,,,False,367
 810,solid-charcoal,Solid Charcoal,1491,2026-03-30,1,,,False,1491
 810,solid-navy,Solid Navy,1059,2026-03-30,1,,,False,1059
@@ -1505,14 +1505,14 @@ style,color_slug,color_name,total_qty,earliest_eta,sku_count,image_relpath,image
 835,split-charcoal-white,Split Charcoal/White,1421,,1,,,False,1421
 835,split-olive-black,Split Olive/Black,871,2026-02-02,1,,,False,871
 835,split-olive-white,Split Olive/White,294,2026-03-30,1,,,False,294
-840,kryptek-typhon,Kryptek Typhon,40,,1,,,False,40
-843,green-camo,Green Camo,155,,1,,,False,155
-843,mossy-oak-obsession,Mossy Oak Obsession,262,,1,,,False,262
-848,kryptek-typhon,Kryptek Typhon,170,,1,,,False,170
+840,kryptek-typhon,Kryptek Typhon,40,,1,840/840_KryptekTyphon_FINAL.jpg,840_KryptekTyphon_FINAL.jpg,True,40
+843,green-camo,Green Camo,155,,1,843/843_GreenCamo_FINAL.jpg,843_GreenCamo_FINAL.jpg,True,155
+843,mossy-oak-obsession,Mossy Oak Obsession,262,,1,843/843_MossyOakObsession_FINAL.jpg,843_MossyOakObsession_FINAL.jpg,True,262
+848,kryptek-typhon,Kryptek Typhon,170,,1,848/848_KryptekTyphon_FINAL.jpg,848_KryptekTyphon_FINAL.jpg,True,170
 862,multicam-original-flag-design,Multicam Original/Flag Design,13994,,1,,,False,13994
-865,multicam-original,Multicam Original,767,,1,,,False,767
-870,kryptek-neptune,Kryptek Neptune,403,,1,,,False,403
-870,kryptek-pontus,Kryptek Pontus,205,,1,,,False,205
+865,multicam-original,Multicam Original,767,,1,865/865_MulticamOriginal_FINAL.jpg,865_MulticamOriginal_FINAL.jpg,True,767
+870,kryptek-neptune,Kryptek Neptune,403,,1,870/870_KryptekNeptune_FINAL.jpg,870_KryptekNeptune_FINAL.jpg,True,403
+870,kryptek-pontus,Kryptek Pontus,205,,1,870/870_KryptekPontus_FINAL.jpg,870_KryptekPontus_FINAL.jpg,True,205
 882,blaze-orange-mesh-back,Blaze Orange Mesh Back,0,2026-03-23,1,,,False,2026-03-23
 882FP,blaze-orange-mesh-back,Blaze Orange Mesh Back,0,2026-05-31,1,,,False,2026-05-31
 909,mckenzie-charcoal-w-charcoal-underbrim,McKenzie Charcoal w/ Charcoal Underbrim,535,,2,,,False,535
@@ -1599,7 +1599,7 @@ PTS20,alternate-red-black,Alternate Red/Black,3695,,3,PTS20\PTS20_Alternate-Red-
 PTS20,alternate-red-navy,Alternate Red/Navy,2095,2025-12-29,3,PTS20\PTS20_Alternate-Red-Navy_FINAL.jpg,PTS20_Alternate-Red-Navy_FINAL.jpg,True,2095
 PTS20,alternate-royal-black,Alternate Royal/Black,1898,2025-12-29,3,PTS20\PTS20_Alternate-Royal-Black_FINAL.jpg,PTS20_Alternate-Royal-Black_FINAL.jpg,True,1898
 PTS20,alternate-white-black,Alternate White/Black,10407,2025-12-29,4,PTS20\PTS20_Alternate-White-Black_FINAL.jpg,PTS20_Alternate-White-Black_FINAL.jpg,True,10407
-PTS20,alternate-white-dark-green,Alternate White/Dark Green,3369,2026-04-27,3,,,False,3369
+PTS20,alternate-white-dark-green,Alternate White/Dark Green,3369,2026-04-27,3,PTS20/PTS20_Alternate-White-DarkGreen_FINAL.jpg,PTS20_Alternate-White-DarkGreen_FINAL.jpg,True,3369
 PTS20,alternate-white-navy,Alternate White/Navy,5597,2025-12-29,4,PTS20\PTS20_Alternate-White-Navy_FINAL.jpg,PTS20_Alternate-White-Navy_FINAL.jpg,True,5597
 PTS20,alternate-white-purple,Alternate White/Purple,1515,2025-12-29,3,PTS20\PTS20_Alternate-White-Purple_FINAL.jpg,PTS20_Alternate-White-Purple_FINAL.jpg,True,1515
 PTS20,alternate-white-red,Alternate White/Red,5631,2025-12-29,4,PTS20\PTS20_Alternate-White-Red_FINAL.jpg,PTS20_Alternate-White-Red_FINAL.jpg,True,5631
@@ -1609,17 +1609,17 @@ PTS20,combination-black-gold,Combination Black/Gold,1535,2025-12-17,3,PTS20\PTS2
 PTS20,combination-black-orange,Combination Black/Orange,2200,2025-12-29,3,PTS20\PTS20_Combination-Black-Orange_FINAL.jpg,PTS20_Combination-Black-Orange_FINAL.jpg,True,2200
 PTS20,combination-black-red,Combination Black/Red,6663,2025-12-19,4,PTS20\PTS20_Combination-Black-Red_FINAL.jpg,PTS20_Combination-Black-Red_FINAL.jpg,True,6663
 PTS20,combination-black-royal,Combination Black/Royal,3693,2025-12-29,3,PTS20\PTS20_Combination-Black-Royal_FINAL.jpg,PTS20_Combination-Black-Royal_FINAL.jpg,True,3693
-PTS20,combination-black-vegas-gold,Combination Black/Vegas Gold,1810,2025-12-29,3,,,False,1810
+PTS20,combination-black-vegas-gold,Combination Black/Vegas Gold,1810,2025-12-29,3,PTS20/PTS20_Combination-Black-VegasGold_FINAL.jpg,PTS20_Combination-Black-VegasGold_FINAL.jpg,True,1810
 PTS20,combination-charcoal-black,Combination Charcoal/Black,882,,2,PTS20\PTS20_Combination-Charcoal-Black_FINAL.jpg,PTS20_Combination-Charcoal-Black_FINAL.jpg,True,882
 PTS20,combination-charcoal-navy,Combination Charcoal/Navy,983,,3,PTS20\PTS20_Combination-Charcoal-Navy_FINAL.jpg,PTS20_Combination-Charcoal-Navy_FINAL.jpg,True,983
 PTS20,combination-charcoal-red,Combination Charcoal/Red,1104,,3,PTS20\PTS20_Combination-Charcoal-Red_FINAL.jpg,PTS20_Combination-Charcoal-Red_FINAL.jpg,True,1104
 PTS20,combination-charcoal-royal,Combination Charcoal/Royal,1068,,3,PTS20\PTS20_Combination-Charcoal-Royal_FINAL.jpg,PTS20_Combination-Charcoal-Royal_FINAL.jpg,True,1068
-PTS20,combination-dark-green-gold,Combination Dark Green/Gold,2099,2025-12-29,3,,,False,2099
+PTS20,combination-dark-green-gold,Combination Dark Green/Gold,2099,2025-12-29,3,PTS20/PTS20_Combination-DarkGreen-Gold_FINAL.jpg,PTS20_Combination-DarkGreen-Gold_FINAL.jpg,True,2099
 PTS20,combination-grey-black,Combination Grey/Black,2309,2025-12-29,4,PTS20\PTS20_Combination-Grey-Black_FINAL.jpg,PTS20_Combination-Grey-Black_FINAL.jpg,True,2309
 PTS20,combination-grey-navy,Combination Grey/Navy,864,2025-12-29,4,PTS20\PTS20_Combination-Grey-Navy_FINAL.jpg,PTS20_Combination-Grey-Navy_FINAL.jpg,True,864
 PTS20,combination-grey-red,Combination Grey/Red,2688,,3,PTS20\PTS20_Combination-Grey-Red_FINAL.jpg,PTS20_Combination-Grey-Red_FINAL.jpg,True,2688
 PTS20,combination-grey-royal,Combination Grey/Royal,808,2025-12-29,3,,,False,808
-PTS20,combination-navy-columbia-blue,Combination Navy/Columbia Blue,1513,2025-12-29,3,,,False,1513
+PTS20,combination-navy-columbia-blue,Combination Navy/Columbia Blue,1513,2025-12-29,3,PTS20/PTS20_Combination-Navy-ColumbiaBlue_FINAL.jpg,PTS20_Combination-Navy-ColumbiaBlue_FINAL.jpg,True,1513
 PTS20,combination-navy-gold,Combination Navy/Gold,4396,,3,PTS20\PTS20_Combination-Navy-Gold_FINAL.jpg,PTS20_Combination-Navy-Gold_FINAL.jpg,True,4396
 PTS20,combination-navy-orange,Combination Navy/Orange,3334,2025-12-29,3,PTS20\PTS20_Combination-Navy-Orange_FINAL.jpg,PTS20_Combination-Navy-Orange_FINAL.jpg,True,3334
 PTS20,combination-navy-red,Combination Navy/Red,6544,2025-12-29,4,PTS20\PTS20_Combination-Navy-Red_FINAL.jpg,PTS20_Combination-Navy-Red_FINAL.jpg,True,6544
@@ -1628,7 +1628,7 @@ PTS20,combination-red-navy,Combination Red/Navy,3108,2025-12-29,3,PTS20\PTS20_Co
 PTS20,combination-red-royal,Combination Red/Royal,466,,1,PTS20\PTS20_Combination-Red-Royal_FINAL.jpg,PTS20_Combination-Red-Royal_FINAL.jpg,True,466
 PTS20,combination-royal-red,Combination Royal/Red,1286,2025-12-22,3,PTS20\PTS20_Combination-Royal-Red_FINAL.jpg,PTS20_Combination-Royal-Red_FINAL.jpg,True,1286
 PTS20,combination-white-black,Combination White/Black,5827,2025-12-29,4,PTS20\PTS20_Combination-White-Black_FINAL.jpg,PTS20_Combination-White-Black_FINAL.jpg,True,5827
-PTS20,combination-white-dark-green,Combination White/Dark Green,2292,2025-12-29,3,,,False,2292
+PTS20,combination-white-dark-green,Combination White/Dark Green,2292,2025-12-29,3,PTS20/PTS20_Combination-White-DarkGreen_FINAL.jpg,PTS20_Combination-White-DarkGreen_FINAL.jpg,True,2292
 PTS20,combination-white-maroon,Combination White/Maroon,2276,2025-12-29,3,PTS20\PTS20_Combination-White-Maroon_FINAL.jpg,PTS20_Combination-White-Maroon_FINAL.jpg,True,2276
 PTS20,combination-white-navy,Combination White/Navy,5058,2025-12-29,4,PTS20\PTS20_Combination-White-Navy_FINAL.jpg,PTS20_Combination-White-Navy_FINAL.jpg,True,5058
 PTS20,combination-white-purple,Combination White/Purple,1472,2025-12-17,3,PTS20\PTS20_Combination-White-Purple_FINAL.jpg,PTS20_Combination-White-Purple_FINAL.jpg,True,1472
@@ -1642,8 +1642,8 @@ PTS20,contrasting-royal-white,Contrasting Royal/White,1762,2025-12-29,3,PTS20\PT
 PTS20,solid-black,Solid Black,17063,2025-12-29,4,PTS20\PTS20_Solid-Black_FINAL.jpg,PTS20_Solid-Black_FINAL.jpg,True,17063
 PTS20,solid-cardinal,Solid Cardinal,2015,2026-02-02,3,PTS20\PTS20_Solid-Cardinal_FINAL.jpg,PTS20_Solid-Cardinal_FINAL.jpg,True,2015
 PTS20,solid-charcoal,Solid Charcoal,4278,2026-04-27,3,PTS20\PTS20_Solid-Charcoal_FINAL.jpg,PTS20_Solid-Charcoal_FINAL.jpg,True,4278
-PTS20,solid-columbia-blue,Solid Columbia Blue,2190,2026-01-02,3,,,False,2190
-PTS20,solid-dark-green,Solid Dark Green,1323,2025-12-17,4,,,False,1323
+PTS20,solid-columbia-blue,Solid Columbia Blue,2190,2026-01-02,3,PTS20/PTS20_Solid-ColumbiaBlue_FINAL.jpg,PTS20_Solid-ColumbiaBlue_FINAL.jpg,True,2190
+PTS20,solid-dark-green,Solid Dark Green,1323,2025-12-17,4,PTS20/PTS20_Solid-DarkGreen_FINAL.jpg,PTS20_Solid-DarkGreen_FINAL.jpg,True,1323
 PTS20,solid-gold,Solid Gold,856,2026-04-27,3,PTS20\PTS20_Solid-Gold_FINAL.jpg,PTS20_Solid-Gold_FINAL.jpg,True,856
 PTS20,solid-grey,Solid Grey,1281,2025-12-19,3,PTS20\PTS20_Solid-Grey_FINAL.jpg,PTS20_Solid-Grey_FINAL.jpg,True,1281
 PTS20,solid-kelly,Solid Kelly,1623,2025-12-29,3,PTS20\PTS20_Solid-Kelly_FINAL.jpg,PTS20_Solid-Kelly_FINAL.jpg,True,1623
@@ -1653,7 +1653,7 @@ PTS20,solid-orange,Solid Orange,931,2025-12-29,3,PTS20\PTS20_Solid-Orange_FINAL.
 PTS20,solid-purple,Solid Purple,1173,2025-12-29,3,PTS20\PTS20_Solid-Purple_FINAL.jpg,PTS20_Solid-Purple_FINAL.jpg,True,1173
 PTS20,solid-red,Solid Red,539,2025-12-22,4,PTS20\PTS20_Solid-Red_FINAL.jpg,PTS20_Solid-Red_FINAL.jpg,True,539
 PTS20,solid-royal,Solid Royal,5299,2026-01-02,4,PTS20\PTS20_Solid-Royal_FINAL.jpg,PTS20_Solid-Royal_FINAL.jpg,True,5299
-PTS20,solid-vegas-gold,Solid Vegas Gold,1603,2026-01-06,3,,,False,1603
+PTS20,solid-vegas-gold,Solid Vegas Gold,1603,2026-01-06,3,PTS20/PTS20_Solid-VegasGold_FINAL.jpg,PTS20_Solid-VegasGold_FINAL.jpg,True,1603
 PTS20,solid-white,Solid White,6612,2026-01-02,3,PTS20\PTS20_Solid-White_FINAL.jpg,PTS20_Solid-White_FINAL.jpg,True,6612
 PTS20M,pts20-mesh-back-alternate-grey-black,PTS20 Mesh Back Alternate Grey/Black,4139,,3,,,False,4139
 PTS20M,pts20-mesh-back-alternate-grey-navy,PTS20 Mesh Back Alternate Grey/Navy,399,,2,,,False,399
@@ -1699,16 +1699,16 @@ PTS30,combination-black-gold,Combination Black/Gold,1063,2025-12-29,3,PTS30\PTS3
 PTS30,combination-black-orange,Combination Black/Orange,1505,2025-12-29,3,PTS30\PTS30_Combination-Black-Orange_FINAL.jpg,PTS30_Combination-Black-Orange_FINAL.jpg,True,1505
 PTS30,combination-black-red,Combination Black/Red,1122,2025-12-29,4,PTS30\PTS30_Combination-Black-Red_FINAL.jpg,PTS30_Combination-Black-Red_FINAL.jpg,True,1122
 PTS30,combination-black-royal,Combination Black/Royal,1585,2025-12-19,3,PTS30\PTS30_Combination-Black-Royal_FINAL.jpg,PTS30_Combination-Black-Royal_FINAL.jpg,True,1585
-PTS30,combination-black-vegas-gold,Combination Black/Vegas Gold,164,2025-12-19,3,,,False,164
+PTS30,combination-black-vegas-gold,Combination Black/Vegas Gold,164,2025-12-19,3,PTS30/PTS30_Combination-Black-VegasGold_FINAL.jpg,PTS30_Combination-Black-VegasGold_FINAL.jpg,True,164
 PTS30,combination-charcoal-black,Combination Charcoal/Black,441,,2,PTS30\PTS30_Combination-Charcoal-Black_FINAL.jpg,PTS30_Combination-Charcoal-Black_FINAL.jpg,True,441
 PTS30,combination-charcoal-red,Combination Charcoal/Red,209,,1,PTS30\PTS30_Combination-Charcoal-Red_FINAL.jpg,PTS30_Combination-Charcoal-Red_FINAL.jpg,True,209
 PTS30,combination-charcoal-royal,Combination Charcoal/Royal,670,2025-12-19,3,PTS30\PTS30_Combination-Charcoal-Royal_FINAL.jpg,PTS30_Combination-Charcoal-Royal_FINAL.jpg,True,670
-PTS30,combination-dark-green-gold,Combination Dark Green/Gold,684,2025-12-29,3,,,False,684
+PTS30,combination-dark-green-gold,Combination Dark Green/Gold,684,2025-12-29,3,PTS30/PTS30_Combination-DarkGreen-Gold_FINAL.jpg,PTS30_Combination-DarkGreen-Gold_FINAL.jpg,True,684
 PTS30,combination-grey-black,Combination Grey/Black,850,2025-12-29,4,PTS30\PTS30_Combination-Grey-Black_FINAL.jpg,PTS30_Combination-Grey-Black_FINAL.jpg,True,850
 PTS30,combination-grey-navy,Combination Grey/Navy,1711,2025-12-29,4,PTS30\PTS30_Combination-Grey-Navy_FINAL.jpg,PTS30_Combination-Grey-Navy_FINAL.jpg,True,1711
 PTS30,combination-grey-red,Combination Grey/Red,452,2025-12-29,3,PTS30\PTS30_Combination-Grey-Red_FINAL.jpg,PTS30_Combination-Grey-Red_FINAL.jpg,True,452
 PTS30,combination-grey-royal,Combination Grey/Royal,857,2026-01-02,3,PTS30\PTS30_Combination-Grey-Royal_FINAL.jpg,PTS30_Combination-Grey-Royal_FINAL.jpg,True,857
-PTS30,combination-navy-columbia-blue,Combination Navy/Columbia Blue,1073,2025-12-29,3,,,False,1073
+PTS30,combination-navy-columbia-blue,Combination Navy/Columbia Blue,1073,2025-12-29,3,PTS30/PTS30_Combination-Navy-ColumbiaBlue_FINAL.jpg,PTS30_Combination-Navy-ColumbiaBlue_FINAL.jpg,True,1073
 PTS30,combination-navy-gold,Combination Navy/Gold,1741,2025-12-29,3,PTS30\PTS30_Combination-Navy-Gold_FINAL.jpg,PTS30_Combination-Navy-Gold_FINAL.jpg,True,1741
 PTS30,combination-navy-orange,Combination Navy/Orange,5860,,3,PTS30\PTS30_Combination-Navy-Orange_FINAL.jpg,PTS30_Combination-Navy-Orange_FINAL.jpg,True,5860
 PTS30,combination-navy-red,Combination Navy/Red,2538,2025-12-17,4,PTS30\PTS30_Combination-Navy-Red_FINAL.jpg,PTS30_Combination-Navy-Red_FINAL.jpg,True,2538
@@ -1726,8 +1726,8 @@ PTS30,solid-black,Solid Black,26421,2025-12-29,3,PTS30\PTS30_Solid-Black_FINAL.j
 PTS30,solid-black-lg-xl,Solid Black LG/XL,13449,2025-12-17,1,,,False,13449
 PTS30,solid-cardinal,Solid Cardinal,455,2025-12-29,3,PTS30\PTS30_Solid-Cardinal_FINAL.jpg,PTS30_Solid-Cardinal_FINAL.jpg,True,455
 PTS30,solid-charcoal,Solid Charcoal,2300,2026-01-19,3,PTS30\PTS30_Solid-Charcoal_FINAL.jpg,PTS30_Solid-Charcoal_FINAL.jpg,True,2300
-PTS30,solid-columbia-blue,Solid Columbia Blue,2910,2025-12-19,3,,,False,2910
-PTS30,solid-dark-green,Solid Dark Green,791,2025-12-29,4,,,False,791
+PTS30,solid-columbia-blue,Solid Columbia Blue,2910,2025-12-19,3,PTS30/PTS30_Solid-ColumbiaBlue_FINAL.jpg,PTS30_Solid-ColumbiaBlue_FINAL.jpg,True,2910
+PTS30,solid-dark-green,Solid Dark Green,791,2025-12-29,4,PTS30/PTS30_Solid-DarkGreen_FINAL.jpg,PTS30_Solid-DarkGreen_FINAL.jpg,True,791
 PTS30,solid-gold,Solid Gold,604,2025-12-29,3,PTS30\PTS30_Solid-Gold_FINAL.jpg,PTS30_Solid-Gold_FINAL.jpg,True,604
 PTS30,solid-grey,Solid Grey,2322,2026-01-12,3,PTS30\PTS30_Solid-Grey_FINAL.jpg,PTS30_Solid-Grey_FINAL.jpg,True,2322
 PTS30,solid-kelly,Solid Kelly,645,2025-12-29,3,PTS30\PTS30_Solid-Kelly_FINAL.jpg,PTS30_Solid-Kelly_FINAL.jpg,True,645
@@ -1740,7 +1740,7 @@ PTS30,solid-royal,Solid Royal,6450,2026-01-15,4,PTS30\PTS30_Solid-Royal_FINAL.jp
 PTS30,solid-vegas,Solid Vegas,1152,2025-12-29,3,,,False,1152
 PTS30,solid-white,Solid White,10017,2026-03-02,3,PTS30\PTS30_Solid-White_FINAL.jpg,PTS30_Solid-White_FINAL.jpg,True,10017
 PTS30,split-grey-black,Split Grey/Black,197,,1,PTS30\PTS30_Split-Grey-Black_FINAL.jpg,PTS30_Split-Grey-Black_FINAL.jpg,True,197
-PTS30,split-grey-dark-green,Split Grey/Dark Green,760,,2,,,False,760
+PTS30,split-grey-dark-green,Split Grey/Dark Green,760,,2,PTS30/PTS30_Split-Grey-DarkGreen_FINAL.jpg,PTS30_Split-Grey-DarkGreen_FINAL.jpg,True,760
 PTS30,split-grey-navy,Split Grey/Navy,416,,3,PTS30\PTS30_Split-Grey-Navy_FINAL.jpg,PTS30_Split-Grey-Navy_FINAL.jpg,True,416
 PTS30,split-grey-red,Split Grey/Red,1868,,3,PTS30\PTS30_Split-Grey-Red_FINAL.jpg,PTS30_Split-Grey-Red_FINAL.jpg,True,1868
 PTS30,split-grey-royal,Split Grey/Royal,1397,,3,PTS30\PTS30_Split-Grey-Royal_FINAL.jpg,PTS30_Split-Grey-Royal_FINAL.jpg,True,1397
@@ -1750,7 +1750,7 @@ PTS50,alternate-grey-red,Alternate Grey/Red,446,,3,PTS50\PTS50_Alternate-Grey-Re
 PTS50,alternate-grey-royal,Alternate Grey/Royal,525,2025-12-29,3,PTS50\PTS50_Alternate-Grey-Royal_FINAL.jpg,PTS50_Alternate-Grey-Royal_FINAL.jpg,True,525
 PTS50,alternate-red-black,Alternate Red/Black,62,2025-12-29,3,PTS50\PTS50_Alternate-Red-Black_FINAL.jpg,PTS50_Alternate-Red-Black_FINAL.jpg,True,62
 PTS50,alternate-white-black,Alternate White/Black,1516,,3,PTS50\PTS50_Alternate-White-Black_FINAL.jpg,PTS50_Alternate-White-Black_FINAL.jpg,True,1516
-PTS50,alternate-white-dark-green,Alternate White/Dark Green,141,2026-03-23,3,,,False,141
+PTS50,alternate-white-dark-green,Alternate White/Dark Green,141,2026-03-23,3,PTS50/PTS50_Alternate-White-DarkGreen_FINAL.jpg,PTS50_Alternate-White-DarkGreen_FINAL.jpg,True,141
 PTS50,alternate-white-navy,Alternate White/Navy,698,,3,PTS50\PTS50_Alternate-White-Navy_FINAL.jpg,PTS50_Alternate-White-Navy_FINAL.jpg,True,698
 PTS50,alternate-white-red,Alternate White/Red,165,2025-12-29,3,PTS50\PTS50_Alternate-White-Red_FINAL.jpg,PTS50_Alternate-White-Red_FINAL.jpg,True,165
 PTS50,alternate-white-royal,Alternate White/Royal,1392,2025-12-29,3,PTS50\PTS50_Alternate-White-Royal_FINAL.jpg,PTS50_Alternate-White-Royal_FINAL.jpg,True,1392
@@ -1759,22 +1759,22 @@ PTS50,combination-black-gold,Combination Black/Gold,858,2025-12-29,3,PTS50\PTS50
 PTS50,combination-black-orange,Combination Black/Orange,403,2025-12-29,3,PTS50\PTS50_Combination-Black-Orange_FINAL.jpg,PTS50_Combination-Black-Orange_FINAL.jpg,True,403
 PTS50,combination-black-red,Combination Black/Red,994,,3,PTS50\PTS50_Combination-Black-Red_FINAL.jpg,PTS50_Combination-Black-Red_FINAL.jpg,True,994
 PTS50,combination-black-royal,Combination Black/Royal,337,2025-12-29,3,PTS50\PTS50_Combination-Black-Royal_FINAL.jpg,PTS50_Combination-Black-Royal_FINAL.jpg,True,337
-PTS50,combination-black-vegas-gold,Combination Black/Vegas Gold,1041,,3,,,False,1041
+PTS50,combination-black-vegas-gold,Combination Black/Vegas Gold,1041,,3,PTS50/PTS50_Combination-Black-VegasGold_FINAL.jpg,PTS50_Combination-Black-VegasGold_FINAL.jpg,True,1041
 PTS50,combination-charcoal-black,Combination Charcoal/Black,353,,3,PTS50\PTS50_Combination-Charcoal-Black_FINAL.jpg,PTS50_Combination-Charcoal-Black_FINAL.jpg,True,353
 PTS50,combination-charcoal-navy,Combination Charcoal/Navy,1147,,3,PTS50\PTS50_Combination-Charcoal-Navy_FINAL.jpg,PTS50_Combination-Charcoal-Navy_FINAL.jpg,True,1147
 PTS50,combination-charcoal-red,Combination Charcoal/Red,385,,3,PTS50\PTS50_Combination-Charcoal-Red_FINAL.jpg,PTS50_Combination-Charcoal-Red_FINAL.jpg,True,385
 PTS50,combination-charcoal-royal,Combination Charcoal/Royal,92,2025-12-29,3,PTS50\PTS50_Combination-Charcoal-Royal_FINAL.jpg,PTS50_Combination-Charcoal-Royal_FINAL.jpg,True,92
-PTS50,combination-dark-green-gold,Combination Dark Green/Gold,275,2026-03-23,3,,,False,275
+PTS50,combination-dark-green-gold,Combination Dark Green/Gold,275,2026-03-23,3,PTS50/PTS50_Combination-DarkGreen-Gold_FINAL.jpg,PTS50_Combination-DarkGreen-Gold_FINAL.jpg,True,275
 PTS50,combination-grey-black,Combination Grey/Black,748,,3,PTS50\PTS50_Combination-Grey-Black_FINAL.jpg,PTS50_Combination-Grey-Black_FINAL.jpg,True,748
 PTS50,combination-grey-navy,Combination Grey/Navy,134,2025-12-29,3,PTS50\PTS50_Combination-Grey-Navy_FINAL.jpg,PTS50_Combination-Grey-Navy_FINAL.jpg,True,134
 PTS50,combination-grey-red,Combination Grey/Red,191,2025-12-29,3,PTS50\PTS50_Combination-Grey-Red_FINAL.jpg,PTS50_Combination-Grey-Red_FINAL.jpg,True,191
 PTS50,combination-grey-royal,Combination Grey/Royal,1853,,3,PTS50\PTS50_Combination-Grey-Royal_FINAL.jpg,PTS50_Combination-Grey-Royal_FINAL.jpg,True,1853
-PTS50,combination-navy-columbia-blue,Combination Navy/Columbia Blue,520,2025-12-29,3,,,False,520
+PTS50,combination-navy-columbia-blue,Combination Navy/Columbia Blue,520,2025-12-29,3,PTS50/PTS50_Combination-Navy-ColumbiaBlue_FINAL.jpg,PTS50_Combination-Navy-ColumbiaBlue_FINAL.jpg,True,520
 PTS50,combination-navy-red,Combination Navy/Red,1694,,3,PTS50\PTS50_Combination-Navy-Red_FINAL.jpg,PTS50_Combination-Navy-Red_FINAL.jpg,True,1694
 PTS50,combination-red-black,Combination Red/Black,406,,3,PTS50\PTS50_Combination-Red-Black_FINAL.jpg,PTS50_Combination-Red-Black_FINAL.jpg,True,406
 PTS50,combination-royal-red,Combination Royal/Red,535,2026-03-23,3,PTS50\PTS50_Combination-Royal-Red_FINAL.jpg,PTS50_Combination-Royal-Red_FINAL.jpg,True,535
 PTS50,combination-white-black,Combination White/Black,1927,,3,PTS50\PTS50_Combination-White-Black_FINAL.jpg,PTS50_Combination-White-Black_FINAL.jpg,True,1927
-PTS50,combination-white-dark-green,Combination White/Dark Green,727,,3,,,False,727
+PTS50,combination-white-dark-green,Combination White/Dark Green,727,,3,PTS50/PTS50_Combination-White-DarkGreen_FINAL.jpg,PTS50_Combination-White-DarkGreen_FINAL.jpg,True,727
 PTS50,combination-white-maroon,Combination White/Maroon,762,,3,PTS50\PTS50_Combination-White-Maroon_FINAL.jpg,PTS50_Combination-White-Maroon_FINAL.jpg,True,762
 PTS50,combination-white-navy,Combination White/Navy,176,2025-12-29,3,PTS50\PTS50_Combination-White-Navy_FINAL.jpg,PTS50_Combination-White-Navy_FINAL.jpg,True,176
 PTS50,combination-white-purple,Combination White/Purple,883,,3,PTS50\PTS50_Combination-White-Purple_FINAL.jpg,PTS50_Combination-White-Purple_FINAL.jpg,True,883
@@ -1787,8 +1787,8 @@ PTS50,contrasting-royal-white,Contrasting Royal/White,1272,2025-12-29,3,PTS50\PT
 PTS50,solid-black,Solid Black,6393,,3,PTS50\PTS50_Solid-Black_FINAL.jpg,PTS50_Solid-Black_FINAL.jpg,True,6393
 PTS50,solid-cardinal,Solid Cardinal,592,,3,PTS50\PTS50_Solid-Cardinal_FINAL.jpg,PTS50_Solid-Cardinal_FINAL.jpg,True,592
 PTS50,solid-charcoal,Solid Charcoal,449,2025-12-29,3,PTS50\PTS50_Solid-Charcoal_FINAL.jpg,PTS50_Solid-Charcoal_FINAL.jpg,True,449
-PTS50,solid-columbia-blue,Solid Columbia Blue,75,2025-12-29,3,,,False,75
-PTS50,solid-dark-green,Solid Dark Green,373,2026-03-23,3,,,False,373
+PTS50,solid-columbia-blue,Solid Columbia Blue,75,2025-12-29,3,PTS50/PTS50_Solid-ColumbiaBlue_FINAL.jpg,PTS50_Solid-ColumbiaBlue_FINAL.jpg,True,75
+PTS50,solid-dark-green,Solid Dark Green,373,2026-03-23,3,PTS50/PTS50_Solid-DarkGreen_FINAL.jpg,PTS50_Solid-DarkGreen_FINAL.jpg,True,373
 PTS50,solid-gold,Solid Gold,505,,3,PTS50\PTS50_Solid-Gold_FINAL.jpg,PTS50_Solid-Gold_FINAL.jpg,True,505
 PTS50,solid-grey,Solid Grey,614,2025-12-29,3,PTS50\PTS50_Solid-Grey_FINAL.jpg,PTS50_Solid-Grey_FINAL.jpg,True,614
 PTS50,solid-kelly,Solid Kelly,217,2025-12-29,3,PTS50\PTS50_Solid-Kelly_FINAL.jpg,PTS50_Solid-Kelly_FINAL.jpg,True,217
@@ -1798,7 +1798,7 @@ PTS50,solid-orange,Solid Orange,693,,3,PTS50\PTS50_Solid-Orange_FINAL.jpg,PTS50_
 PTS50,solid-purple,Solid Purple,741,,3,PTS50\PTS50_Solid-Purple_FINAL.jpg,PTS50_Solid-Purple_FINAL.jpg,True,741
 PTS50,solid-red,Solid Red,1157,2025-12-29,3,PTS50\PTS50_Solid-Red_FINAL.jpg,PTS50_Solid-Red_FINAL.jpg,True,1157
 PTS50,solid-royal,Solid Royal,609,2025-12-29,3,PTS50\PTS50_Solid-Royal_FINAL.jpg,PTS50_Solid-Royal_FINAL.jpg,True,609
-PTS50,solid-vegas-gold,Solid Vegas Gold,636,,3,,,False,636
+PTS50,solid-vegas-gold,Solid Vegas Gold,636,,3,PTS50/PTS50_Solid-VegasGold_FINAL.jpg,PTS50_Solid-VegasGold_FINAL.jpg,True,636
 PTS50,solid-white,Solid White,786,,3,PTS50\PTS50_Solid-White_FINAL.jpg,PTS50_Solid-White_FINAL.jpg,True,786
 PTS500SK,pts-sentinel-field-sock-black-red-white-size,PTS Sentinel Field Sock Black/Red-White Size,1470,,4,,,False,1470
 PTS500SK,pts-sentinel-field-sock-black-size,PTS Sentinel Field Sock Black Size,1201,,4,,,False,1201
