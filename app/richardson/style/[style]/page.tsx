@@ -74,7 +74,7 @@ export default async function StylePage({
                 width: "100%",
                 height: 150,
                 objectFit: "contain",
-                background: "#f8f8f8",
+                background: "#ffffff",
                 borderRadius: 6,
                 marginBottom: 10,
               }}
