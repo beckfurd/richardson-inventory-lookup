@@ -49,14 +49,17 @@ export default async function StylePage({
         <strong>Colors:</strong> {colors.length}
       </p>
 
-      <div
-        style={{
-          display: "grid",
-          gridTemplateColumns: "repeat(auto-fill, minmax(200px, 1fr))",
-          gap: 20,
-          marginTop: 20,
-        }}
-      >
+      <img
+  src={`https://images.beckfurd.com/${style}/${c.image_file}`}
+  alt={`${style} ${c.color_name}`}
+  style={{
+    width: "100%",
+    height: 150,
+    objectFit: "contain",
+    background: "#f8f8f8",
+    borderRadius: 6,
+  }}
+/>
         {colors.map((c) => (
           <div
             key={c.color_slug}
