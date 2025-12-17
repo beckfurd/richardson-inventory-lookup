@@ -43,6 +43,26 @@ export default async function StylePage({
     <main style={{ padding: 24 }}>
       <Link href="/richardson">← Back to search</Link>
       <h1>Style {style}</h1>
+     
+      <style>{`
+  .colorTileImgWrap {
+    overflow: hidden;
+    border-radius: 6px;
+    background: #f8f8f8;
+  }
+  .colorTileImg {
+    width: 100%;
+    height: 150px;
+    object-fit: contain;
+    display: block;
+    transition: transform 180ms ease;
+    transform-origin: center;
+  }
+  .colorTile:hover .colorTileImg {
+    transform: scale(1.08);
+  }
+`}</style>
+
 
       <p style={{ color: "crimson" }}>DEPLOY CHECK: v7</p>
       <p>
@@ -60,23 +80,21 @@ export default async function StylePage({
         {colors.map((c) => (
           <div
             key={c.color_slug}
+            className="colorTile" 
             style={{        
               padding: 12,
               textAlign: "center",
               borderRadius: 10,
             }}
           >
-            <img
-              src={`https://images.beckfurd.com/${style}/${c.image_file}`}
-              alt={`${style} ${c.color_name}`}
-              style={{
-                width: "100%",
-                height: 150,
-                objectFit: "contain",
-                background: "#ffffff",
-                borderRadius: 6,
-                marginBottom: 10,
-              }}
+            <div className="colorTileImgWrap">
+  <img
+    className="colorTileImg"
+    src={`https://images.beckfurd.com/${style}/${c.image_file}`}
+    alt={`${style} ${c.color_name}`}
+  />
+</div>
+
             />
 
             <strong>{c.color_name}</strong>
