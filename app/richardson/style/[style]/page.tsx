@@ -11,31 +11,39 @@ type ColorRow = {
   image_file: string;
 };
 
-export default function StylePage({ params }: any) {
+export default function StylePage({ params }: { params: { style: string } }) {
   const style = params.style;
   const [colors, setColors] = useState<ColorRow[]>([]);
+  const [status, setStatus] = useState("Loading…");
 
   useEffect(() => {
     fetch("/data/richardson_color_tiles.csv")
-      .then((res) => res.text())
-      .then((text) => {
-        const lines = text.split("\n");
+      .then(async (res) => {
+        if (!res.ok) throw new Error("CSV not found");
+        const text = await res.text();
+        const lines = text.replace(/\r/g, "").split("\n").filter(Boolean);
         const headers = lines[0].split(",");
+
         const data = lines.slice(1).map((line) => {
           const values = line.split(",");
-          return Object.fromEntries(
-            headers.map((h, i) => [h, values[i]])
-          ) as ColorRow;
+          const obj: any = {};
+          headers.forEach((h, i) => (obj[h] = values[i]));
+          return obj;
         });
 
         setColors(data.filter((r) => r.style === style));
-      });
+        setStatus("Loaded");
+      })
+      .catch((e) => setStatus(`ERROR: ${e.message}`));
   }, [style]);
 
   return (
     <main style={{ padding: 24 }}>
       <a href="/richardson">← Back to search</a>
       <h1>Style {style}</h1>
+
+      <p><strong>Status:</strong> {status}</p>
+      <p><strong>Colors:</strong> {colors.length}</p>
 
       <div
         style={{
@@ -50,14 +58,14 @@ export default function StylePage({ params }: any) {
             key={c.color_slug}
             style={{
               border: "1px solid #ddd",
-              padding: 10,
+              padding: 12,
               textAlign: "center",
             }}
           >
             <div
               style={{
-                height: 160,
-                background: "#f4f4f4",
+                height: 150,
+                background: "#f2f2f2",
                 marginBottom: 10,
               }}
             >
@@ -65,7 +73,7 @@ export default function StylePage({ params }: any) {
             </div>
 
             <strong>{c.color_name}</strong>
-            <div>
+            <div style={{ marginTop: 6 }}>
               {Number(c.total_qty) > 0
                 ? `${c.total_qty} available`
                 : c.earliest_eta
