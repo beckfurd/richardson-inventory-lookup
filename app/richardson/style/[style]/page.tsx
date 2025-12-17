@@ -48,7 +48,7 @@ export default async function StylePage({
   .colorTileImgWrap {
     overflow: hidden;
     border-radius: 6px;
-    background: #f8f8f8;
+    background: #ffffff;
   }
   .colorTileImg {
     width: 100%;
@@ -59,7 +59,7 @@ export default async function StylePage({
     transform-origin: center;
   }
   .colorTile:hover .colorTileImg {
-    transform: scale(1.08);
+    transform: scale(1.25);
   }
 `}</style>
 
