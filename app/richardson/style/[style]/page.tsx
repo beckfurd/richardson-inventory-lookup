@@ -83,12 +83,19 @@ export default async function StylePage({
             <strong>{c.color_name}</strong>
 
             <div style={{ marginTop: 6 }}>
-              {Number(c.total_qty) > 0
-                ? `${c.total_qty} available`
-                : c.earliest_eta
-                ? `Next: ${c.earliest_eta}`
-                : "Out of stock"}
-            </div>
+  {Number(c.total_qty) > 0 ? (
+    `${c.total_qty} available`
+  ) : c.earliest_eta ? (
+    <span style={{ color: "#c62828", fontWeight: 600 }}>
+      Next: {c.earliest_eta}
+    </span>
+  ) : (
+    <span style={{ color: "#c62828", fontWeight: 600 }}>
+      Out of stock
+    </span>
+  )}
+</div>
+
           </div>
         ))}
       </div>
