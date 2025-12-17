@@ -95,8 +95,6 @@ export default async function StylePage({
   />
 </div>
 
-            />
-
             <strong>{c.color_name}</strong>
 
             <div style={{ marginTop: 6 }}>
