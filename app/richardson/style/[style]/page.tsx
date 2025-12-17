@@ -35,7 +35,6 @@ export default async function StylePage({
     "data",
     "richardson_color_tiles.csv"
   );
-
   const csvText = fs.readFileSync(csvPath, "utf8");
   const rows = parseCsvSimple(csvText);
   const colors = rows.filter((r) => r.style === style);
@@ -44,22 +43,20 @@ export default async function StylePage({
     <main style={{ padding: 24 }}>
       <Link href="/richardson">← Back to search</Link>
       <h1>Style {style}</h1>
-      <p style={{ color: "crimson" }}>DEPLOY CHECK: v6</p>
+
+      <p style={{ color: "crimson" }}>DEPLOY CHECK: v7</p>
       <p>
         <strong>Colors:</strong> {colors.length}
       </p>
 
-      <img
-  src={`https://images.beckfurd.com/${style}/${c.image_file}`}
-  alt={`${style} ${c.color_name}`}
-  style={{
-    width: "100%",
-    height: 150,
-    objectFit: "contain",
-    background: "#f8f8f8",
-    borderRadius: 6,
-  }}
-/>
+      <div
+        style={{
+          display: "grid",
+          gridTemplateColumns: "repeat(auto-fill, minmax(200px, 1fr))",
+          gap: 20,
+          marginTop: 20,
+        }}
+      >
         {colors.map((c) => (
           <div
             key={c.color_slug}
@@ -67,16 +64,24 @@ export default async function StylePage({
               border: "1px solid #ddd",
               padding: 12,
               textAlign: "center",
+              borderRadius: 10,
             }}
           >
-            <div
+            <img
+              src={`https://images.beckfurd.com/${style}/${c.image_file}`}
+              alt={`${style} ${c.color_name}`}
               style={{
+                width: "100%",
                 height: 150,
-                background: "#f2f2f2",
+                objectFit: "contain",
+                background: "#f8f8f8",
+                borderRadius: 6,
                 marginBottom: 10,
               }}
             />
+
             <strong>{c.color_name}</strong>
+
             <div style={{ marginTop: 6 }}>
               {Number(c.total_qty) > 0
                 ? `${c.total_qty} available`
