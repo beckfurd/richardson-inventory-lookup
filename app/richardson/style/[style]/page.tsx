@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { headers } from "next/headers";
 
 type ColorRow = {
   style: string;
@@ -27,11 +28,33 @@ export default async function StylePage({
 }) {
   const { style } = await params;
 
-  // Read CSV from /public/data (served at /data/...)
-  const res = await fetch(
-    `${process.env.NEXT_PUBLIC_SITE_URL}/data/richardson_color_tiles.csv`,
-    { cache: "no-store" }
-  );
+  // Build the current site origin dynamically (works on preview + prod)
+  const h = await headers();
+  const host = h.get("x-forwarded-host") ?? h.get("host");
+  const proto = h.get("x-forwarded-proto") ?? "https";
+  const origin = host ? `${proto}://${host}` : "";
+
+  const res = await fetch(`${origin}/data/richardson_color_tiles.csv`, {
+    cache: "no-store",
+  });
+
+  if (!res.ok) {
+    return (
+      <main style={{ padding: 24 }}>
+        <Link href="/richardson">← Back to search</Link>
+        <h1>Style {style}</h1>
+        <p style={{ color: "crimson" }}>DEPLOY CHECK: v5</p>
+        <p>
+          <strong>Error:</strong> Could not load CSV. ({res.status}{" "}
+          {res.statusText})
+        </p>
+        <p>
+          Try opening <code>/data/richardson_color_tiles.csv</code> directly in
+          the browser to confirm it exists.
+        </p>
+      </main>
+    );
+  }
 
   const text = await res.text();
   const rows = parseCsvSimple(text);
@@ -42,7 +65,7 @@ export default async function StylePage({
       <Link href="/richardson">← Back to search</Link>
       <h1>Style {style}</h1>
 
-      <p style={{ color: "crimson" }}>DEPLOY CHECK: v4</p>
+      <p style={{ color: "crimson" }}>DEPLOY CHECK: v5</p>
       <p>
         <strong>Colors:</strong> {colors.length}
       </p>
