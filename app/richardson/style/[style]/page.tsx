@@ -60,8 +60,7 @@ export default async function StylePage({
         {colors.map((c) => (
           <div
             key={c.color_slug}
-            style={{
-              border: "1px solid #ddd",
+            style={{        
               padding: 12,
               textAlign: "center",
               borderRadius: 10,
