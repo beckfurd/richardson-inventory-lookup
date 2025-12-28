@@ -25,12 +25,13 @@ function parseCsvSimple(text: string) {
 export default async function RichardsonSearch({
   searchParams,
 }: {
-  searchParams?: Promise<{ q?: string; instock?: string }>;
+  searchParams?: Promise<{ q?: string; instock?: string; hasimg?: string }>;
 }) {
   const sp = (await searchParams) ?? {};
   const q = (sp.q ?? "").toLowerCase();
-  const inStockOnly = (sp.instock ?? "1") === "1"; // default caps-only UX: show in-stock styles
-
+  const inStockOnly = (sp.instock ?? "0") === "1"; // default caps-only UX: show in-stock styles
+  const hasImagesOnly = (sp.hasimg ?? "0") === "1";
+  
   const csvPath = path.join(
     process.cwd(),
     "public",
@@ -39,12 +40,6 @@ export default async function RichardsonSearch({
   );
   const csvText = fs.readFileSync(csvPath, "utf8");
   const rows = parseCsvSimple(csvText).filter((r) => r.style);
-
-  // caps-only: only show styles with any image coverage (these are the cap styles)
-  const capRows = rows.filter((r) => {
-    const cov = Number(r.image_coverage ?? "0");
-    return cov > 0;
-  });
 
   let filtered = rows;
 
@@ -55,6 +50,11 @@ export default async function RichardsonSearch({
   if (inStockOnly) {
     filtered = filtered.filter((r) => Number(r.style_total_qty || "0") > 0);
   }
+
+  if (hasImagesOnly) {
+  filtered = filtered.filter((r) => Number(r.image_coverage || "0") > 0);
+  }
+
 
   // Sort: in-stock first, then highest qty
   filtered.sort((a, b) => {
@@ -85,7 +85,17 @@ export default async function RichardsonSearch({
             border: "1px solid #ccc",
           }}
         />
-
+        
+        <label style={{ display: "flex", gap: 8, alignItems: "center" }}>
+          <input 
+            type="checkbox" 
+            name="hasimg" 
+            value="1" 
+            defaultChecked={hasImagesOnly} 
+          />
+          Has images
+        </label>
+        
         <label style={{ display: "flex", gap: 8, alignItems: "center" }}>
           <input
             type="checkbox"
