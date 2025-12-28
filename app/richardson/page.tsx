@@ -46,7 +46,7 @@ export default async function RichardsonSearch({
     return cov > 0;
   });
 
-  let filtered = capRows;
+  let filtered = rows;
 
   if (q) {
     filtered = filtered.filter((r) => r.style.toLowerCase().includes(q));
